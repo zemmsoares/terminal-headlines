@@ -1,10 +1,13 @@
 void display_modal(int current_element, json jsonData) {
     // create new window and position it in the center of the screen
     int modal_height = 10;
-    int modal_width = 30;
+    int modal_width = 70;
     int starty = (LINES - modal_height) / 2;
     int startx = (COLS - modal_width) / 2;
     WINDOW *modal = newwin(modal_height, modal_width, starty, startx);
+    
+    //box creates border around modal
+    box(modal,0,0);
 
     // display information
     mvwprintw(modal, 1, 1, "Title: %s", jsonData["articles"][current_element]["title"].get<std::string>().c_str());
