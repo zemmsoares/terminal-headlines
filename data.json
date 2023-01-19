@@ -1,43 +1,108 @@
 {
     "articles": [
         {
-            "author": "JIM MUSTIAN and MICHAEL R. SISAK",
-            "content": "NEW YORK (AP) — Donald Trump’s former lawyer, Michael Cohen, said he met for 2½ hours Tuesday with Manhattan prosecutors who have revived a years-old investigation into payments made to a porn star t… [+4643 chars]",
-            "description": "NEW YORK (AP) — Donald Trump’s former lawyer, Michael Cohen, said he met for 2½ hours Tuesday with Manhattan prosecutors who have revived a years-old investigation into payments made to a porn star to keep her quiet about an alleged extramarital tryst.",
-            "publishedAt": "2023-01-18T19:10:09Z",
+            "author": "JOSH DUBOW",
+            "content": "SANTA CLARA, Calif. (AP) — For Kyle Shanahan, the chance to coach the San Francisco 49ers against the Dallas Cowboys in a playoff game is a throwback to when that rivalry was the biggest in football.… [+6281 chars]",
+            "description": "SANTA CLARA, Calif. (AP) — For Kyle Shanahan, the chance to coach the San Francisco 49ers against the Dallas Cowboys in a playoff game is a throwback to when that rivalry was the biggest in football.",
+            "publishedAt": "2023-01-19T11:00:28Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Cohen meets Trump prosecutors amid renewed hush money probe",
-            "url": "https://apnews.com/8a1af5c032c56145830b7db8d19bb169",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b26499d399b243bda2fcf85097c9b83f/3000.jpeg"
+            "title": "Cowboys-49ers rivalry set for record-tying 9th playoff game",
+            "url": "https://apnews.com/083928bbc0f793885f2eb89bb7ef771d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b5863a7e241b4de88fbf05b21ea7f45f/1960.jpeg"
         },
         {
-            "author": "MARK THIESSEN and PATRICK WHITTLE",
-            "content": "ANCHORAGE, Alaska (AP) — A polar bear chased several residents around a tiny, isolated Alaska Native whaling village, killing a mother and her 1-year-old son in an extremely rare attack before anothe… [+6144 chars]",
-            "description": "ANCHORAGE, Alaska (AP) — A polar bear chased several residents around a tiny, isolated Alaska Native whaling village, killing a mother and her 1-year-old son in an extremely rare attack before another community member shot and killed the bear, authorities sai…",
-            "publishedAt": "2023-01-18T18:44:59Z",
+            "author": "GEIR MOULSON and JAMEY KEATEN",
+            "content": "BERLIN (AP) — Germany faced mounting pressure to supply battle tanks to Kyiv and Ukrainian President Volodymyr Zelenskyy aired frustration about not obtaining enough weaponry as Western allies confer… [+5397 chars]",
+            "description": "BERLIN (AP) — Germany faced mounting pressure to supply battle tanks to Kyiv and Ukrainian President Volodymyr Zelenskyy aired frustration about not obtaining enough weaponry as Western allies conferred Thursday on how best to support Ukraine nearly 11 months…",
+            "publishedAt": "2023-01-19T09:48:42Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Mother, 1-year-old son killed in Alaska polar bear attack",
-            "url": "https://apnews.com/96bc5f7f89f738547d4a074c29cb1822",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/04feb60fc1a34fdf8eabb73a402deabe/3000.jpeg"
+            "title": "Germany pressed on tanks for Ukraine; Kyiv airs frustration",
+            "url": "https://apnews.com/1cf2593806068a08ab63e78ddd681999",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/90529dcb5bf3457fa5fbe43b04250511/3000.jpeg"
         },
         {
-            "author": "BEN FINLEY and DENISE LAVOIE",
-            "content": "NEWPORT NEWS, Va. (AP) — When a 6-year-old shot and wounded his first-grade teacher in this shipbuilding city near Virginia’s coast, the community reacted with collective shock.But the sentiment has … [+7773 chars]",
-            "description": "NEWPORT NEWS, Va. (AP) — When a 6-year-old shot and wounded his first-grade teacher in this shipbuilding city near Virginia’s coast, the community reacted with collective shock.",
-            "publishedAt": "2023-01-18T16:06:11Z",
+            "author": "NICK PERRY",
+            "content": "WELLINGTON, New Zealand (AP) — New Zealand Prime Minister Jacinda Ardern, who became a global icon of the left and exemplified a new style of leadership, said Thursday that she would leave office.Jus… [+8004 chars]",
+            "description": "WELLINGTON, New Zealand (AP) — New Zealand Prime Minister Jacinda Ardern, who became a global icon of the left and exemplified a new style of leadership, said Thursday that she would leave office.",
+            "publishedAt": "2023-01-19T06:51:06Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Anger grows in Virginia city where first-grader shot teacher",
-            "url": "https://apnews.com/c6b0f2360b8f083d3be15da85067bbd6",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/808e19d05b374e15874cfdd5f14f0f30/3000.jpeg"
+            "title": "New Zealand's Jacinda Ardern, an icon to many, to step down",
+            "url": "https://apnews.com/0e6d8eedd96f94aab07eeb0c37164591",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f64c08ef6569448db7fd84fb4b32a6ab/3000.jpeg"
+        },
+        {
+            "author": "TERRY TANG",
+            "content": "Every Lunar New Year without fail, Kat Lieu's mother would make her steamed nian gao, which is a sweet rice — or mochi — cake. It was a tasty tradition of having dessert for breakfast.The Seattle-bas… [+7111 chars]",
+            "description": "Every Lunar New Year without fail, Kat Lieu's mother would make her steamed nian gao, which is a sweet rice — or mochi — cake. It was a tasty tradition of having dessert for breakfast.The Seattle-based author of the “Modern Asian Baking at Home” cookbook and …",
+            "publishedAt": "2023-01-19T06:39:05Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "At Lunar New Year, desserts can be customary or 'cute-ified'",
+            "url": "https://apnews.com/37294f7536ff44c03acf7ca3a734ecf2",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a50563b575da465f82da25ee4c41d159/3000.jpeg"
+        },
+        {
+            "author": "SYLVIE CORBET and JADE LE DELEY",
+            "content": "PARIS (AP) — Workers in many French cities took to the streets Thursday to reject proposed pension changes that would push back the retirement age, amid a day of nationwide strikes and protests seen … [+4640 chars]",
+            "description": "PARIS (AP) — Workers in many French cities took to the streets Thursday to reject proposed pension changes that would push back the retirement age, amid a day of nationwide strikes and protests seen as a major test for Emmanuel Macron and his presidency.",
+            "publishedAt": "2023-01-19T05:08:51Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Strikes, protests test French plan to raise retirement age",
+            "url": "https://apnews.com/866eb86aea5cf0d39894b96d2888c26f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0b7c0ae038654f13aa861d504b04b643/2000.jpeg"
+        },
+        {
+            "author": "DANIEL POLITI and FRANKLIN BRICEÑO",
+            "content": "LIMA, Peru (AP) — People poured into Peru's coastal capital, many from remote Andean regions, for a protest Thursday against President Dina Boluarte and in support of her predecessor, whose ouster la… [+5400 chars]",
+            "description": "LIMA, Peru (AP) — People poured into Peru's coastal capital, many from remote Andean regions, for a protest Thursday against President Dina Boluarte and in support of her predecessor, whose ouster last month launched deadly unrest and cast the nation into pol…",
+            "publishedAt": "2023-01-19T05:05:05Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Peru’s Andes ‘descends on’ capital to demand leader resign",
+            "url": "https://apnews.com/abc5c843f4ef886efff634fce2576abe",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/23060280c3064b73a681b0367b7ba006/3000.jpeg"
+        },
+        {
+            "author": "JOSH BOAK",
+            "content": "WASHINGTON (AP) — The countdown toward a possible U.S. government default is in the offing — with frictions between President Joe Biden and House Republicans raising alarms about whether the U.S. can… [+5148 chars]",
+            "description": "WASHINGTON (AP) — The countdown toward a possible U.S.",
+            "publishedAt": "2023-01-19T05:04:40Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "As US nears debt limit, political frictions raising alarms",
+            "url": "https://apnews.com/3652d50a1567c1e7ab544614b7f2b357",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3fbd0ce3f7ec45bab754f3ee93002eb2/3000.jpeg"
+        },
+        {
+            "author": "EDITH M. LEDERER",
+            "content": "UNITED NATIONS (AP) — Israel’s U.N. ambassador accused the Palestinians on Wednesday of stabbing a knife into any chance for reconciliation by seeking an advisory opinion from the U.N.’s highest cour… [+4909 chars]",
+            "description": "UNITED NATIONS (AP) — Israel’s U.N. ambassador accused the Palestinians on Wednesday of stabbing a knife into any chance for reconciliation by seeking an advisory opinion from the U.N.’s highest court on Israel’s decades-old occupation — and the Palestinian U…",
+            "publishedAt": "2023-01-19T03:37:17Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Israel and Palestinians clash at UN meeting as tensions rise",
+            "url": "https://apnews.com/308d67294e1a3bcce9aeb9d5e2ab5bb6",
+            "urlToImage": ""
         },
         {
             "author": "MICHAEL LIEDTKE",
@@ -50,85 +115,20 @@
             },
             "title": "Elon Musk depicted as liar, visionary in Tesla tweet trial",
             "url": "https://apnews.com/a9fa53e5485a36fd359dfead5cb51eae",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/7b5b945c8a9e44febcf0d0a4dd5b875c/3000.jpeg"
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/216cefbd63944b63b046f19169d02396/3000.jpeg"
         },
         {
-            "author": "MATT O'BRIEN",
-            "content": "Microsoft is cutting 10,000 workers, almost 5% of its workforce, joining other tech companies that have scaled back their pandemic-era expansions.The company said in a regulatory filing Wednesday tha… [+4450 chars]",
-            "description": "Microsoft is cutting 10,000 workers, almost 5% of its workforce, joining other tech companies that have scaled back their pandemic-era expansions.",
-            "publishedAt": "2023-01-18T14:33:37Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Job cuts in tech sector spread, Microsoft lays off 10,000",
-            "url": "https://apnews.com/18fe0c9b8c9ff856e932e075161b1f43",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/7a6bc554808143dca6b3baa31b4fcda5/3000.jpeg"
-        },
-        {
-            "author": "DAVID CRARY",
-            "content": "Anti-abortion activists will have multiple reasons to celebrate — and some reasons for unease — when they gather Friday in Washington for the annual March for Life.The march, which includes a rally d… [+7136 chars]",
-            "description": "Anti-abortion activists will have multiple reasons to celebrate — and some reasons for unease — when they gather Friday in Washington for the annual March for Life.The march, which includes a rally drawing abortion opponents from across the nation, has been h…",
-            "publishedAt": "2023-01-18T14:09:36Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "US divided over Roe's repeal as abortion foes gird for march",
-            "url": "https://apnews.com/0a7e6ef93091d16307ca935e0ae1d2bd",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5fee5eff083e42a88e77b49dbdc64c6f/3000.jpeg"
-        },
-        {
-            "author": "DAMIAN J. TROISE and ALEX VEIGA",
-            "content": "Wall Street had its biggest pullback of the year Wednesday after a broad slide for stocks wiped out much of the benchmark S&amp;P 500 index's gains from last week. The S&amp;P 500 fell 1.6% after hav… [+4449 chars]",
-            "description": "Wall Street had its biggest pullback of the year Wednesday after a broad slide for stocks wiped out much of the benchmark S&amp;P 500 index's gains from last week. The S&amp;P 500 fell 1.6% after having been up as much as 0.6% in the early going.",
+            "author": "YURI KAGEYAMA",
+            "content": "TOKYO (AP) — Asian shares were trading mixed Thursday, as investors grew cautious after Wall Street's biggest pullback of the year.Shares dipped in Tokyo, but rose in Seoul and Sydney, where they rec… [+4703 chars]",
+            "description": "TOKYO (AP) — Asian shares were trading mixed Thursday, as investors grew cautious after Wall Street's biggest pullback of the year.Shares dipped in Tokyo, but rose in Seoul and Sydney, where they recouped earlier losses by late morning.",
             "publishedAt": "2023-01-18T08:59:53Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Wall Street has biggest pullback of the year, led by tech",
+            "title": "Asian shares mixed after biggest Wall St retreat of the year",
             "url": "https://apnews.com/0812803b29ca8fc3bf11eded0daf890e",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f9ff83ff9bf74b5b9cacbb212c447401/3000.jpeg"
-        },
-        {
-            "author": "MALAK HARB",
-            "content": "BROVARY, Ukraine (AP) — A helicopter carrying Ukraine's interior minister crashed into a kindergarten in a foggy residential suburb of Kyiv on Wednesday, killing him and about a dozen other people, i… [+6383 chars]",
-            "description": "BROVARY, Ukraine (AP) — A helicopter carrying Ukraine's interior minister crashed into a kindergarten in a foggy residential suburb of Kyiv on Wednesday, killing him and about a dozen other people, including a child on the ground, authorities said.",
-            "publishedAt": "2023-01-18T08:28:57Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Ukraine helicopter crash kills interior minister, others",
-            "url": "https://apnews.com/9ec684edb2af6b7b84e67ab5e984e739",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ac062e9f99114f548db8fcba31f6c771/3000.jpeg"
-        },
-        {
-            "author": "BRIAN WITTE",
-            "content": "ANNAPOLIS, Md. (AP) — Maryland Gov. Wes Moore was sworn in as the state’s first Black governor on Wednesday, pledging to work for greater inclusion and economic equity while also focusing on improvin… [+4538 chars]",
-            "description": "ANNAPOLIS, Md. (AP) — Maryland Gov. Wes Moore was sworn in as the state’s first Black governor on Wednesday, pledging to work for greater inclusion and economic equity while also focusing on improving education, fighting crime and climate change.",
-            "publishedAt": "2023-01-18T06:01:50Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Wes Moore sworn in as Maryland's first Black governor",
-            "url": "https://apnews.com/309285bcacd61efd93c0928384c10be5",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4d22f8fc49d8464a846567907a8d882c/3000.jpeg"
-        },
-        {
-            "author": "STEFANIE DAZIO",
-            "content": "LOS ANGELES (AP) — A shooter stood over a 16-year-old mother clutching her 10-month-old baby and shot and killed them in a brazen attack in a central California farming community that left six dead, … [+4975 chars]",
-            "description": "LOS ANGELES (AP) — A shooter stood over a 16-year-old mother clutching her 10-month-old baby and shot and killed them in a brazen attack in a central California farming community that left six dead, a sheriff said Tuesday.",
-            "publishedAt": "2023-01-17T18:23:51Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Shooter stood over California mom holding baby, killed both",
-            "url": "https://apnews.com/fd32f55c3c2e882f4e7034dff2670125",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/49c41abf940b49fcb6f3d68e3f85786f/3000.jpeg"
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0dc5b55689e94a62b83f3b9eb3f5bda4/3000.jpeg"
         }
     ],
     "status": "ok",

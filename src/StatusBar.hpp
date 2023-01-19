@@ -5,6 +5,7 @@ class StatusBar
 {
     WINDOW *_parent;
     std::string _text;
+    std::string _textstatus;
     attr_t _attributes;
 
 public:
@@ -12,6 +13,7 @@ public:
     {
         _parent = parent;
         _text = "";
+        _textstatus = "";
     }
 
     std::string getText()
@@ -22,6 +24,21 @@ public:
     void setText(std::string text, attr_t attributes = 0)
     {
         _text = text;
+        if (attributes != 0)
+        {
+            _attributes = attributes;
+        }
+    }
+
+    
+    std::string getTextStatus()
+    {
+        return _textstatus;
+    }
+
+    void setTextStatus(std::string textstatus, attr_t attributes = 0)
+    {
+        _textstatus = textstatus;
         if (attributes != 0)
         {
             _attributes = attributes;
@@ -43,7 +60,8 @@ public:
     {
         int output_row = _parent->_maxy - 1;
         attron(_attributes);
-        mvwprintw(_parent, output_row,0, getText().c_str());
+        //mvwprintw(_parent, output_row,0, getText().c_str());
+        mvwprintw(_parent, output_row,0, getTextStatus().c_str());
         attroff(_attributes);
     }
     
@@ -56,5 +74,12 @@ public:
              mvwaddch(_parent, output_row, i, ' ' | A_REVERSE);
         }
         attroff(_attributes);
+    }
+
+    void drawTextEnd()
+    {
+        int output_row = _parent->_maxy -1;
+        int x_max = getmaxx(_parent);
+        mvwaddstr(_parent,output_row,x_max - 6,"[]");
     }
 };

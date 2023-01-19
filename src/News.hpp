@@ -6,6 +6,8 @@
 #include <ctime>
 #include <sstream>
 
+#include <ncurses.h>
+
 using json = nlohmann::json;
 
 class News
@@ -19,6 +21,28 @@ public:
     {
 
     }
+
+    
+void handle_input() {
+    initscr();
+    noecho();
+    int current_element = 0;
+    int key;
+    while((key = getch()) != 'q'){
+        switch(key){
+            case 'h':
+                if(current_element > 0) current_element--;
+                break;
+            case 'j':
+                if(current_element < jsonData["articles"].size()-1) current_element++;
+                break;
+            // 'k' and 'l' cases
+        }
+        // display jsonData["articles"][current_element]
+        // ...
+    }
+    endwin();
+}
     
     std::string format_datetime(std::string publishedAt) {
         std::tm tm = {};
@@ -38,34 +62,25 @@ public:
     jsonFile >> jsonData;
     jsonFile.close();
 
-   // init_pair(1, COLOR_WHITE, COLOR_RED);
-  //  init_pair(2, COLOR_WHITE, COLOR_BLACK);
-      // display json data
+
     int row = 0;
     int count = 0;
     for (auto& element : jsonData["articles"]) {
         
-        if(element["source"]["name"].is_null() )
-            mvprintw(row++, 0, "source: null");
-        else
-           // attron(COLOR_PAIR(1));
-            attron(A_BOLD);
-        
-        if(element["publishedAt"].is_null())
-            mvprintw(row++, 0, "publishedAt: null");
-        else 
-           // attron(COLOR_PAIR(2));
+        if(element["source"]["name"].is_null() || element["publishedAt"].is_null() || element["title"].is_null())
+            mvprintw(row++, 0, "something missing");
+        else      
+            addstr(std::to_string(count).c_str());
+            addstr(" ~ ");
+            addstr(element["source"]["name"].get<std::string>().c_str());
+            addstr(" ~ ");
+            attron(A_BOLD);	
+            addstr((format_datetime(element["publishedAt"].get<std::string>())).c_str());
             attroff(A_BOLD);	
-            
-            addstr((" - "+ format_datetime(element["publishedAt"].get<std::string>())).c_str());           mvprintw(row++, 0, (" "+element["source"]["name"].get<std::string>()+" ").c_str());
-        
-        if(element["title"].is_null())
-            mvprintw(row++, 0, "title: null");
-        else 
-           // attron(COLOR_PAIR(2));
-            attroff(A_BOLD);	
-            addstr((" - "+ element["title"].get<std::string>() + " t: " + std::to_string(count)).c_str());
+            addstr(" ~ ");
+            addstr(element["title"].get<std::string>().c_str());
+            mvprintw(row++,0, " ");
         count++;
         }
-        }
+     }
 };
