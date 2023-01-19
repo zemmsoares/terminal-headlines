@@ -7,12 +7,13 @@
 #include "modal.cpp"
 #include "current_time.cpp"
 #include "link.cpp"
+#include "update_thread.cpp"
 
 
 #include <iostream>
 #include <thread>
 #include <chrono>
-
+#include <future>
 int main()
 {
     initscr();
@@ -25,8 +26,14 @@ int main()
     int x_max = getmaxx(stdscr);
 
     /*Get request from API */
+    std::thread t1([]() {
     Request request;
-    request.getRequests();
+    while (true) {
+        request.getRequests();
+        std::this_thread::sleep_for(std::chrono::seconds(5));
+        }
+    });
+    t1.detach();
 
     // read json file
     std::ifstream jsonFile("data.json");
@@ -100,7 +107,6 @@ std::string s = CurrentDate();
 
         refresh();
     }
-
 
 
     endwin();

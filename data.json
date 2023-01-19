@@ -1,22 +1,48 @@
 {
     "articles": [
         {
-            "author": "MARCIA DUNN",
-            "content": "CAPE CANAVERAL, Fla. (AP) — A galactic photo shoot has captured more than 3 billion stars and galaxies in one of the biggest sky surveys ever. A dark-energy camera on a telescope in Chile made the ob… [+1326 chars]",
-            "description": "CAPE CANAVERAL, Fla. (AP) — A galactic photo shoot has captured more than 3 billion stars and galaxies in one of the biggest sky surveys ever. A dark-energy camera on a telescope in Chile made the observations over two years, focusing on the Southern Hemisphe…",
-            "publishedAt": "2023-01-19T17:07:33Z",
+            "author": "MARK SHERMAN and JESSICA GRESKO",
+            "content": null,
+            "description": "WASHINGTON (AP) — The Supreme Court said Thursday it has not determined who leaked a draft of the court's opinion overturning abortion rights, but that the investigation continues.",
+            "publishedAt": "2023-01-19T19:23:33Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Say cheese! Galactic photo shoot captures 3 billion stars",
-            "url": "https://apnews.com/60fecb7e18e0ad9b247b8d7aa75a4b3c",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/9112f60b2dc84c849daffb17f6015f18/3000.jpeg"
+            "title": "Supreme Court says it hasn't found abortion opinion leaker",
+            "url": "https://apnews.com/59a40974e39a67c2ab859ba0c21c785e",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3586432a31fa4e46be9dadad5fe51315/3000.jpeg"
+        },
+        {
+            "author": "CHRIS MEGERIAN and ERIC TUCKER",
+            "content": "WASHINGTON (AP) — When Hillary Clinton was running for president, her campaign wanted a gentler way to talk about the criminal investigation into her private email server, so they called it a “securi… [+7581 chars]",
+            "description": "WASHINGTON (AP) — When Hillary Clinton was running for president, her campaign wanted a gentler way to talk about the criminal investigation into her private email server, so they called it a “security review.”",
+            "publishedAt": "2023-01-19T19:03:03Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Investigation? Review? Biden faces a messaging dilemma",
+            "url": "https://apnews.com/58228d94cdcfe4ebe00521b049037868",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/80dbbdac2ffc48d4a64e5882f6f722d9/3000.jpeg"
+        },
+        {
+            "author": "AAMER MADHANI",
+            "content": "WASHINGTON (AP) — President Joe Biden notches two years in office on Friday. That represents 730 days since his inauguration — and a whole lot of other numbers as well. The story of the first half of… [+5174 chars]",
+            "description": "WASHINGTON (AP) — President Joe Biden notches two years in office on Friday. That represents 730 days since his inauguration — and a whole lot of other numbers as well. The story of the first half of Biden's term, at least by the numbers, is a mixed bag.",
+            "publishedAt": "2023-01-19T17:06:35Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "By the numbers: President Biden at the two-year mark",
+            "url": "https://apnews.com/fc93b564f7d721e4680861c261420afa",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2010c1ff83c149ebba0051d9a51a6672/3000.jpeg"
         },
         {
             "author": "JIM SALTER",
-            "content": "ST. LOUIS (AP) — A group of religious leaders who support abortion rights filed a lawsuit on Thursday challenging Missouri's law that bans abortions in nearly all cases, saying lawmakers openly invok… [+3946 chars]",
-            "description": "ST. LOUIS (AP) — A group of religious leaders who support abortion rights filed a lawsuit on Thursday challenging Missouri's law that bans abortions in nearly all cases, saying lawmakers openly invoked their religious beliefs while drafting the measure and th…",
+            "content": "ST. LOUIS (AP) — A group of religious leaders who support abortion rights filed a lawsuit Thursday challenging Missouri's abortion ban, saying lawmakers openly invoked their religious beliefs while d… [+4649 chars]",
+            "description": "ST. LOUIS (AP) — A group of religious leaders who support abortion rights filed a lawsuit Thursday challenging Missouri's abortion ban, saying lawmakers openly invoked their religious beliefs while drafting the measure and thereby imposed those beliefs on oth…",
             "publishedAt": "2023-01-19T16:27:55Z",
             "source": {
                 "id": "associated-press",
@@ -24,12 +50,12 @@
             },
             "title": "Religious leaders sue to block Missouri's abortion ban",
             "url": "https://apnews.com/05d21a1234877ffcd358ad74bebe4472",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6d3f0d93acf246f88afb526cf79b64f7/3000.jpeg"
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6efa6bc9228f46f3b373a033f4d42f51/3000.jpeg"
         },
         {
             "author": "MORGAN LEE",
-            "content": "SANTA FE, N.M. (AP) — Actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer who was killed on a New Mexico movie set, pr… [+5873 chars]",
-            "description": "SANTA FE, N.M. (AP) — Actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer who was killed on a New Mexico movie set, prosecutors announced Thursday, citing a “criminal disregard f…",
+            "content": "SANTA FE, N.M. (AP) — Actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, prosecutors annou… [+6339 chars]",
+            "description": "SANTA FE, N.M. (AP) — Actor Alec Baldwin and a weapons specialist will be charged with involuntary manslaughter in the fatal shooting of a cinematographer on a New Mexico movie set, prosecutors announced Thursday, citing a “criminal disregard for safety.”",
             "publishedAt": "2023-01-19T15:37:02Z",
             "source": {
                 "id": "associated-press",
@@ -40,17 +66,17 @@
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/5953a6c5ecaf4402840f084af3fc44dd/3000.jpeg"
         },
         {
-            "author": "FABIANO MAISONNAVE, TATIANA POLLASTRI AND ERALDO PERES",
-            "content": "XAPURI, Brazil (AP) — Rubber tapper Raimundo Mendes de Barros prepares to leave his home, surrounded by rainforest, for an errand in the Brazilian Amazon city of Xapuri. He slides his long, scarred, … [+6704 chars]",
-            "description": "XAPURI, Brazil (AP) — Rubber tapper Raimundo Mendes de Barros prepares to leave his home, surrounded by rainforest, for an errand in the Brazilian Amazon city of Xapuri. He slides his long, scarred, 77-year-old feet into a pair of sneakers made by Veja, a Fre…",
-            "publishedAt": "2023-01-19T13:03:16Z",
+            "author": "MATT O'BRIEN and ARIJETA LAJKA",
+            "content": "NEW YORK (AP) — Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889.Now artificial intelligence systems are doing the same, trai… [+7366 chars]",
+            "description": "NEW YORK (AP) — Countless artists have taken inspiration from “The Starry Night” since Vincent Van Gogh painted the swirling scene in 1889.Now artificial intelligence systems are doing the same, training themselves on a vast collection of digitized artworks t…",
+            "publishedAt": "2023-01-19T14:08:12Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Fashion sneakers propel sustainable rubber in Brazil Amazon",
-            "url": "https://apnews.com/68d33094e142db88f5b00f8384f5a18f",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b50e60aea15b4d3593619441472be4f2/3000.jpeg"
+            "title": "AI tools can create new images, but who is the real artist?",
+            "url": "https://apnews.com/1c6d9e0e260e2d135a3e3bf98d5493df",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b53e6a4e8102446c8088280895bce4be/3000.jpeg"
         },
         {
             "author": "SALLY HO, ANGELIKI KASTANIS and LINDSEY BAHR",
@@ -66,32 +92,6 @@
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/8be42517d97541a492192a009efa656d/1920.jpeg"
         },
         {
-            "author": "JOSH DUBOW",
-            "content": "SANTA CLARA, Calif. (AP) — For Kyle Shanahan, the chance to coach the San Francisco 49ers against the Dallas Cowboys in a playoff game is a throwback to when that rivalry was the biggest in football.… [+6281 chars]",
-            "description": "SANTA CLARA, Calif. (AP) — For Kyle Shanahan, the chance to coach the San Francisco 49ers against the Dallas Cowboys in a playoff game is a throwback to when that rivalry was the biggest in football.",
-            "publishedAt": "2023-01-19T11:00:28Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Cowboys-49ers rivalry set for record-tying 9th playoff game",
-            "url": "https://apnews.com/083928bbc0f793885f2eb89bb7ef771d",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b5863a7e241b4de88fbf05b21ea7f45f/1960.jpeg"
-        },
-        {
-            "author": "GEIR MOULSON and JAMEY KEATEN",
-            "content": "BERLIN (AP) — Germany faced mounting pressure to supply battle tanks to Kyiv and Ukrainian President Volodymyr Zelenskyy aired frustration about not obtaining enough weaponry as Western allies confer… [+5681 chars]",
-            "description": "BERLIN (AP) — Germany faced mounting pressure to supply battle tanks to Kyiv and Ukrainian President Volodymyr Zelenskyy aired frustration about not obtaining enough weaponry as Western allies conferred Thursday on how best to support Ukraine nearly 11 months…",
-            "publishedAt": "2023-01-19T09:48:42Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Germany pressed on tanks for Ukraine; Kyiv airs frustration",
-            "url": "https://apnews.com/1cf2593806068a08ab63e78ddd681999",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/45c3484295914a68bd7615bc446b947c/3000.jpeg"
-        },
-        {
             "author": "NICK PERRY",
             "content": "WELLINGTON, New Zealand (AP) — New Zealand Prime Minister Jacinda Ardern, who became a global icon of the left and exemplified a new style of leadership, said Thursday that she would leave office.Jus… [+7946 chars]",
             "description": "WELLINGTON, New Zealand (AP) — New Zealand Prime Minister Jacinda Ardern, who became a global icon of the left and exemplified a new style of leadership, said Thursday that she would leave office.",
@@ -105,22 +105,9 @@
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/f64c08ef6569448db7fd84fb4b32a6ab/3000.jpeg"
         },
         {
-            "author": "DANIEL POLITI and FRANKLIN BRICEÑO",
-            "content": "LIMA, Peru (AP) — People poured into Peru's coastal capital, many from remote Andean regions, for a protest Thursday against President Dina Boluarte and in support of her predecessor, whose ouster la… [+6530 chars]",
-            "description": "LIMA, Peru (AP) — People poured into Peru's coastal capital, many from remote Andean regions, for a protest Thursday against President Dina Boluarte and in support of her predecessor, whose ouster last month launched deadly unrest and cast the nation into pol…",
-            "publishedAt": "2023-01-19T05:05:05Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Peru’s Andes ‘descended' on capital to demand leader resign",
-            "url": "https://apnews.com/abc5c843f4ef886efff634fce2576abe",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/23060280c3064b73a681b0367b7ba006/3000.jpeg"
-        },
-        {
             "author": "JOSH BOAK",
-            "content": "WASHINGTON (AP) — The countdown toward a possible U.S. government default began Thursday with the Treasury Department implementing accounting measures as a stopgap, while friction between President J… [+6877 chars]",
-            "description": "WASHINGTON (AP) — The countdown toward a possible U.S.",
+            "content": "WASHINGTON (AP) — The U.S. government bumped up against its debt limit Thursday, prompting the Treasury Department to take “extraordinary” accounting steps to avoid default — as friction between Pres… [+7193 chars]",
+            "description": "WASHINGTON (AP) — The U.S. government bumped up against its debt limit Thursday, prompting the Treasury Department to take “extraordinary” accounting steps to avoid default — as friction between President Joe Biden and House Republicans raised concern about w…",
             "publishedAt": "2023-01-19T05:04:40Z",
             "source": {
                 "id": "associated-press",
