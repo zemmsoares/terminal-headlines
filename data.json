@@ -1,136 +1,266 @@
 {
     "articles": [
         {
-            "author": "JOHN WAWROW",
-            "content": "ORCHARD PARK, N.Y. (AP) — Remarkable as Damar Hamlin’s recovery has been, the Buffalo Bills safety still faces a lengthy rehabilitation some three weeks after going into cardiac arrest and needing to… [+3500 chars]",
-            "description": "ORCHARD PARK, N.Y. (AP) — Remarkable as Damar Hamlin’s recovery has been, the Buffalo Bills safety still faces a lengthy rehabilitation some three weeks after going into cardiac arrest and needing to be resuscitated on the field during a game in Cincinnati, h…",
-            "publishedAt": "2023-01-20T07:37:19Z",
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Former federal prosecutor Andy McCarthy and former law clerk to Justice Gorsuch Mike Davis weigh in on the impact of President Biden's classified documents scandal on 'The Story.'",
+            "publishedAt": "2023-01-20T20:37:25.8719225Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Andy McCarthy: Biden officials did not report classified documents to law enforcement | Fox News Video",
+            "url": "https://www.foxnews.com/video/6318981917112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/908ee827-8882-4cfd-a842-e5f408d0ab90/698ca3ab-993a-43c9-a8eb-7c6f3f150a6b/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "Lisa Marie Presley's daughter, Riley Keough, is honoring her late mother.\r\nKeough took to Instagram on Friday morning to share a snap from her childhood. She gazes into Presley's eyes as she holds a … [+2631 chars]",
+            "description": "Lisa Marie Presley's daughter, Riley Keough, took to Instagram to share a throwback picture with her mom following her death earlier this month. The only daughter of Elvis and Priscilla Presley was 54.",
+            "publishedAt": "2023-01-20T20:37:24.1051589Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Lisa Marie Presley's daughter Riley Keough breaks silence on her death with touching throwback photo",
+            "url": "https://www.foxnews.com/entertainment/lisa-marie-presleys-daughter-riley-keough-breaks-silence-death-touching-throwback-photo",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/riley-lisa-marie-presley.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "White House press secretary Karine Jean-Pierre on Friday refused to answer reporter's questions about the classified documents found at President Biden's Wilmington, Delaware, home or the president's… [+3447 chars]",
+            "description": "The White House on Friday refused to address President Biden's statement that he has \"no regrets\" over his handling of classified materials amid a special counsel investigation.",
+            "publishedAt": "2023-01-20T20:22:25.4497728Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "White House insists Biden takes classified documents 'seriously' after he says 'no regrets'",
+            "url": "https://www.foxnews.com/politics/white-house-insists-biden-classified-documents-seriously-after-no-regrets",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/White-House-Press-Secretary-Karine-Jean-Pierre.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "Democratic leaders in major cities nationwide have already moved forward with bans on natural gas stoves even as the Biden administration has pumped the brakes on similar regulations at the federal l… [+3989 chars]",
+            "description": "Democrat-led cities with millions of residents are already enacting sweeping natural gas bans restricting future usage of stoves and other appliances.",
+            "publishedAt": "2023-01-20T20:22:21.7463349Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Democrat-led cities are already moving forward with gas stove bans that will affect millions",
+            "url": "https://www.foxnews.com/politics/democrat-led-cities-already-moving-forward-gas-stove-bans-affect-millions",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/GettyImages-1169848755.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "GRAPHIC CONTENT WARNING\r\nFIRST ON FOX: A Los Angeles 17-year-old who ran over a mother walking her baby in a stroller in 2021 and received just a few months of diversionary camp as punishment was gun… [+3712 chars]",
+            "description": "A Los Angeles teen who ran over a mother walking her baby in a stroller and received just a few months of camp as punishment was gunned down in Palmdale.",
+            "publishedAt": "2023-01-20T19:52:25.2938542Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Los Angeles hit-and-run driver who plowed into mom and baby in stolen car is murdered after light sentence",
+            "url": "https://www.foxnews.com/us/los-angeles-hit-run-driver-who-plowed-into-mom-baby-stolen-car-murdered-after-light-sentence",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/06/Impact.jpg"
+        },
+        {
+            "author": "GENE JOHNSON and MARK THIESSEN",
+            "content": "ANCHORAGE, Alaska (AP) — For isolated communities at the top of the world, keeping the planet’s largest land predators -- polar bears -- out of town is key to coexistence.That can mean patrolling for… [+6539 chars]",
+            "description": "ANCHORAGE, Alaska (AP) — For isolated communities at the top of the world, keeping the planet’s largest land predators -- polar bears -- out of town is key to coexistence.That can mean patrolling for the animals by snowmobile or four-wheeler, shooing them awa…",
+            "publishedAt": "2023-01-20T19:27:41Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Bills' Hamlin faces long recovery, family spokesman tells AP",
-            "url": "https://apnews.com/7b7d987e7073632f48e3f9ae78f67621",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b38d3fa48eb04e90beed04bd663bfdad/3000.jpeg"
+            "title": "Rare attack in Alaska renews interest in polar bear patrols",
+            "url": "https://apnews.com/1b9b5745eb5f9b2b273588f019336e24",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/04feb60fc1a34fdf8eabb73a402deabe/3000.jpeg"
         },
         {
-            "author": "ANDREW DALTON",
-            "content": "LOS ANGELES (AP) — Film production and firearms experts say movie sets probably changed permanently when cinematographer Halyna Hutchins was shot and killed on the remote New Mexico set of the Wester… [+5915 chars]",
-            "description": "LOS ANGELES (AP) — Film production and firearms experts say movie sets probably changed permanently when cinematographer Halyna Hutchins was shot and killed on the remote New Mexico set of the Western “Rust” 14 months ago, leading to the announcement from pro…",
-            "publishedAt": "2023-01-20T07:21:10Z",
+            "author": "Fox News",
+            "content": "A Christian charity worker in Malta could face jail time after he claimed that his faith enabled him to turn away from a homosexual lifestyle he no longer wanted.\r\nMatthew Grech, 33, faces potential … [+10666 chars]",
+            "description": "Matthew Grech, a Christian from Malta, may be fined and face jail time after giving an interview recounting how he turned away from the gay lifestyle after his religious conversion.",
+            "publishedAt": "2023-01-20T18:07:20.605956Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Christian charity worker faces potential jail time, fine after speaking about leaving LGBT lifestyle",
+            "url": "https://www.foxnews.com/world/christian-charity-worker-faces-potential-jail-time-fine-speaking-leaving-lgbt-lifestyle",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Grech.jpg"
+        },
+        {
+            "author": "ALANNA DURKIN RICHER",
+            "content": "A Marine who said he was waiting for “Civil war 2” and two other active-duty members of the military have been charged with participating in the riot at the U.S. Capitol, authorities said in newly fi… [+4825 chars]",
+            "description": "A Marine who said he was waiting for “Civil war 2” and two other active-duty members of the military have been charged with participating in the riot at the U.S. Capitol, authorities said in newly filed court papers.",
+            "publishedAt": "2023-01-20T17:05:44Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "As Baldwin faces charges, gun safety on sets 'gets louder'",
-            "url": "https://apnews.com/30268d9cec10858ccf6bfdf395d0e586",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b381e8bb8f5147cb8e2e0cfe3fc8372e/2000.jpeg"
+            "title": "3 active-duty Marines charged in Jan. 6 Capitol riot",
+            "url": "https://apnews.com/8fc62a5cb27f91b0f9c9447052ffa25d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/24c38c1aa7604dd9acdde29dcf85738a/3000.jpeg"
         },
         {
-            "author": "JOANNA KOZLOWSKA",
-            "content": "Wisps of fog hung over central Almaty, Kazakhstan, last month as President Kassym-Jomart Tokayev somberly unveiled a monument to those killed a year ago in the worst unrest in the Central Asian natio… [+9184 chars]",
-            "description": "Wisps of fog hung over central Almaty, Kazakhstan, last month as President Kassym-Jomart Tokayev somberly unveiled a monument to those killed a year ago in the worst unrest in the Central Asian nation's three decades of independence.",
-            "publishedAt": "2023-01-20T07:17:35Z",
+            "author": "AARON MORRISON",
+            "content": "NEW YORK (AP) — Administrators of a trust fund established to preserve historic Black churches in the United States on Friday revealed a list of houses of worship receiving $4 million in financial gr… [+6021 chars]",
+            "description": "NEW YORK (AP) — Administrators of a trust fund established to preserve historic Black churches in the United States on Friday revealed a list of houses of worship receiving $4 million in financial grants.",
+            "publishedAt": "2023-01-20T17:00:40Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "A year after Kazakhstan's deadly riots, questions persist",
-            "url": "https://apnews.com/27777324a342490b737866449ca00f93",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/117b2c6f595f4b06829dc9a94e094641/3000.jpeg"
+            "title": "Historic Black churches receive $4M in preservation grants",
+            "url": "https://apnews.com/886d6003ec5d939c6fd5f6ce758810c2",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ad1a85b4c5bb4488a2d6736b583fc96d/3000.jpeg"
         },
         {
-            "author": "DANIEL POLITI and FRANKLIN BRICEÑO",
-            "content": "LIMA, Peru (AP) — Thousands of protesters poured into Peru’s capital Thursday, clashing with police amid tear gas and smoke and demanding the ouster of President Dina Boluarte. Many came from remote … [+7307 chars]",
-            "description": "LIMA, Peru (AP) — Thousands of protesters poured into Peru’s capital Thursday, clashing with police amid tear gas and smoke and demanding the ouster of President Dina Boluarte. Many came from remote Andean regions, where 55 people have died amid unrest since …",
-            "publishedAt": "2023-01-20T06:02:43Z",
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Fox News contributor Joe Concha discusses White House press secretary Karine Jean-Pierre's refusal to adequately answer press questions during daily briefings.",
+            "publishedAt": "2023-01-20T16:52:20.6050925Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Joe Concha: Karine Jean-Pierre's briefings get 'more and more painful' | Fox News Video",
+            "url": "https://video.foxnews.com/v/6318957917112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e92400f0-9335-4b12-9438-2190bd65b611/450f6f39-8465-418e-8f54-04903b486646/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Lt. Gen Keith Kellogg (Ret) on the need for U.S. to continue to support Ukraine as the U.S. finalizes a 2.5 billion aid package",
+            "publishedAt": "2023-01-20T15:37:24.6208163Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Gen. Kellogg: Russia-Ukraine war will culminate in spring  | Fox News Video",
+            "url": "https://video.foxnews.com/v/6318965666112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4b69ee-98c2-40f7-aca7-40484711b5f8/ab88e592-46f3-40e2-8704-eacb2dde5440/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "MICHAEL PHILLIS and ADAM BEAM",
+            "content": "ACAMPO, Calif. (AP) — On Sunday morning, Kyle Starks woke up to floodwaters that reached the door of his Jeep after yet another heavy rain storm drenched California. Emergency crews showed up with bo… [+6569 chars]",
+            "description": "ACAMPO, Calif. (AP) — On Sunday morning, Kyle Starks woke up to floodwaters that reached the door of his Jeep after yet another heavy rain storm drenched California. Emergency crews showed up with boats to float Starks and other residents of his rural mobile …",
+            "publishedAt": "2023-01-20T15:00:33Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Protests move into Peru’s capital amid smoke and tear gas",
-            "url": "https://apnews.com/5058729c16cef9beedcc4b8ab97c9e42",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/75c597c8d5ae41f8afad4a0f46884d91/3000.jpeg"
+            "title": "In soaked California, few homeowners have flood insurance",
+            "url": "https://apnews.com/b71eadd83be6176d45f7a1baf7bb2576",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8141a9e8a131453a8331285bd199f340/3000.jpeg"
         },
         {
-            "author": "GARANCE BURKE and MICHAEL TARM",
-            "content": "CHICAGO (AP) — In more than 140 cities across the United States, ShotSpotter’s artificial intelligence algorithm and intricate network of microphones evaluate hundreds of thousands of sounds a year t… [+8358 chars]",
-            "description": "CHICAGO (AP) — In more than 140 cities across the United States, ShotSpotter’s artificial intelligence algorithm and intricate network of microphones evaluate hundreds of thousands of sounds a year to determine if they are gunfire, generating data now being u…",
-            "publishedAt": "2023-01-20T05:46:14Z",
+            "author": "JAKE COYLE",
+            "content": "NEW YORK (AP) — There were, admittedly, some notable distractions at last year's ceremony, so you might have missed it: The old Oscar rules have gone out the window.A film, streamed by Apple TV+, won… [+7426 chars]",
+            "description": "NEW YORK (AP) — There were, admittedly, some notable distractions at last year's ceremony, so you might have missed it: The old Oscar rules have gone out the window.",
+            "publishedAt": "2023-01-20T14:59:50Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "ShotSpotter document reveals key human role in gunshot tech",
-            "url": "https://apnews.com/9cb47bbfb565dc3ef110f92ac7f83862",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5ac8af9e6dff415385a1ff7a2ba795f9/3000.jpeg"
+            "title": "Here's what to expect from Tuesday's Oscar nominations",
+            "url": "https://apnews.com/c8177c672de869f0a316d32c65b4f8dc",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1ac9e1ffd3fe46ec850627bcfc1be1c0/3000.jpeg"
         },
         {
-            "author": "ASHRAF KHALIL",
-            "content": "WASHINGTON (AP) — One year ago, the annual March for Life protest against legal abortion took place in Washington amid a mood of undisguised triumph. With a fresh conservative majority on the Supreme… [+4946 chars]",
-            "description": "WASHINGTON (AP) — One year ago, the annual March for Life protest against legal abortion took place in Washington amid a mood of undisguised triumph.",
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Human Coalition Vice President Ben Watson shares his excitement surrounding the 50th March for Life event following the historic overturning of Roe v. Wade.",
+            "publishedAt": "2023-01-20T14:22:25.2773241Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Ben Watson on first March for Life since overturning Roe: ‘Still work to be done’ | Fox News Video",
+            "url": "https://video.foxnews.com/v/6318964436112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8c48195-5b1e-4647-8cfe-cbbb1c0e85e4/e11a956f-7f44-405b-aa4d-3ca0326296e2/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Jeanne Mancini, president of March for Life, touts the 'absolutely momentous' reversal of Roe v. Wade and encourages supporters to keep marching.",
+            "publishedAt": "2023-01-20T13:37:24.9031246Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "March for Life president joins 'Fox & Friends' as event marks 50 years: 'A beautiful celebration' | Fox News Video",
+            "url": "https://video.foxnews.com/v/6318962607112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97ce96f6-dbc9-4c18-9930-105706f1cc54/2ca61e13-1739-414b-86a5-6456106730f4/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "KELVIN CHAN",
+            "content": "LONDON (AP) — Google is laying off 12,000 workers, or about 6% of its workforce, becoming the latest tech company to trim staff as the economic boom that the industry rode during the COVID-19 pandemi… [+4291 chars]",
+            "description": "LONDON (AP) — Google is laying off 12,000 workers, or about 6% of its workforce, becoming the latest tech company to trim staff as the economic boom that the industry rode during the COVID-19 pandemic ebbs.",
+            "publishedAt": "2023-01-20T11:21:43Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Google axes 12,000 jobs as layoffs spread across tech sector",
+            "url": "https://apnews.com/c85c45231712709582b1d3fe46be5ffe",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6a57336accf2427798821613e5ec36a3/3000.jpeg"
+        },
+        {
+            "author": "JESSICA GRESKO and MARK SHERMAN",
+            "content": "WASHINGTON (AP) — Eight months, 126 formal interviews and a 23-page report later, the Supreme Court said it has failed to discover who leaked a draft of the court’s opinion overturning abortion right… [+4805 chars]",
+            "description": "WASHINGTON (AP) — Eight months, 126 formal interviews and a 23-page report later, the Supreme Court said it has failed to discover who leaked a draft of the court’s opinion overturning abortion rights.",
+            "publishedAt": "2023-01-20T10:31:26Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Supreme Court leak report findings: Lax security, loose lips",
+            "url": "https://apnews.com/84303225919dfb4a784552e36ecaeb23",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1877868eb403475e8be6a28eec47d98c/3000.jpeg"
+        },
+        {
+            "author": "JILL COLVIN",
+            "content": "NEW YORK (AP) — A Florida judge sanctioned former President Donald Trump and one of his attorneys, ordering them to pay nearly $1 million for filing what he said was a bogus lawsuit against Trump's 2… [+2644 chars]",
+            "description": "NEW YORK (AP) — A Florida judge sanctioned former President Donald Trump and one of his attorneys, ordering them to pay nearly $1 million for filing what he said was a bogus lawsuit against Trump's 2016 rival Hillary Clinton and others.",
+            "publishedAt": "2023-01-20T05:58:14Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Judge fines Trump, lawyer for 'frivolous' Clinton lawsuit",
+            "url": "https://apnews.com/872898a17b2f55a4d1235f978633d2df",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/63753a195e7d4672a2af9d1bc3ced6d9/3000.jpeg"
+        },
+        {
+            "author": "ASHRAF KHALIL and CALVIN WOODWARD",
+            "content": "WASHINGTON (AP) — A half century after Roe v. Wade, March for Life supporters on Friday celebrated the Supreme Court's dismantling of that constitutional right to abortion and heralded the political … [+7660 chars]",
+            "description": "WASHINGTON (AP) — A half century after Roe v. Wade, March for Life supporters on Friday celebrated the Supreme Court's dismantling of that constitutional right to abortion and heralded the political struggle set loose by the court's decision.",
             "publishedAt": "2023-01-20T05:23:17Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "March for Life returns to DC with new post-Roe v. Wade focus",
+            "title": "March for Life eyes Congress for post-Roe abortion limits",
             "url": "https://apnews.com/6ed9dbcdaae33312f1425ea38b681a7e",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/32c8ecb272474029ac5b709bf4c7f05e/3000.jpeg"
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/40ee26a7e58a490bb10ed278397b475a/3000.jpeg"
         },
         {
             "author": "LOLITA C. BALDOR and TARA COPP",
-            "content": "RAMSTEIN AIR BASE, Germany (AP) — Defense leaders are gathering at Ramstein Air Base in Germany Friday to hammer out future military aid to Ukraine, amid ongoing dissent over who will provide the bat… [+4746 chars]",
-            "description": "RAMSTEIN AIR BASE, Germany (AP) — Defense leaders are gathering at Ramstein Air Base in Germany Friday to hammer out future military aid to Ukraine, amid ongoing dissent over who will provide the battle tanks that Ukrainian leaders say they desperately need t…",
+            "content": "RAMSTEIN AIR BASE, Germany (AP) — Defense leaders meeting at a U.S. air base in Germany on Friday failed to resolve divisions over providing advanced battle tanks to Ukraine after more than five hour… [+7146 chars]",
+            "description": "RAMSTEIN AIR BASE, Germany (AP) — Defense leaders meeting at a U.S. air base in Germany on Friday failed to resolve divisions over providing advanced battle tanks to Ukraine after more than five hours of discussions about sending more military aid to the emba…",
             "publishedAt": "2023-01-20T05:11:17Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Defense leaders meet amid dissent over tanks for Ukraine",
+            "title": "Defense chiefs fail to resolve dispute on tanks for Ukraine",
             "url": "https://apnews.com/1b505c88a5a6f331cd482762c62fa29c",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f4ae3a1acba744fa8324353c7b874ab1/3000.jpeg"
-        },
-        {
-            "author": "NICK PERRY",
-            "content": "WELLINGTON, New Zealand (AP) — When Jacinda Ardern announced this week she was stepping down as New Zealand's prime minister, speculation began almost immediately about what she might do for a second… [+2821 chars]",
-            "description": "WELLINGTON, New Zealand (AP) — When Jacinda Ardern announced this week she was stepping down as New Zealand's prime minister, speculation began almost immediately about what she might do for a second act.",
-            "publishedAt": "2023-01-20T03:58:32Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "New Zealand's Ardern has many possibilities for a second act",
-            "url": "https://apnews.com/d4f8f8a6d7a81b2247909e17dc38a9f9",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f2a839b6119840eeb3229087df4627ab/3000.jpeg"
-        },
-        {
-            "author": "ROBERT JABLON",
-            "content": "David Crosby, the brash rock musician who evolved from a baby-faced harmony singer with the Byrds to a mustachioed hippie superstar and an ongoing troubadour in Crosby, Stills, Nash &amp; (sometimes)… [+8967 chars]",
-            "description": "David Crosby, the brash rock musician who evolved from a baby-faced harmony singer with the Byrds to a mustachioed hippie superstar and an ongoing troubadour in Crosby, Stills, Nash &amp; (sometimes) Young, has died at 81, several media outlets reported Thurs…",
-            "publishedAt": "2023-01-20T00:23:11Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Reports: David Crosby, rock star and CSNY co-founder, dies",
-            "url": "https://apnews.com/3a1142b65616fa95c34c837a94f2c69f",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6d85e9d5da494cb885cdb680c1be8416/3000.jpeg"
-        },
-        {
-            "author": "ZEKE MILLER and COLLEEN LONG",
-            "content": "APTOS, Calif. (AP) — A frustrated President Joe Biden said Thursday there is “no there there” when he was persistently questioned about the discovery of classified documents and official records at h… [+3463 chars]",
-            "description": "APTOS, Calif. (AP) — A frustrated President Joe Biden said Thursday there is “no there there” when he was persistently questioned about the discovery of classified documents and official records at his home and former office.",
-            "publishedAt": "2023-01-19T23:21:46Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Biden on classified docs discovery: 'There's no there there'",
-            "url": "https://apnews.com/f2384a87dcddbd38796f63e1269c6baf",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ae72330f23104cf49dc62124082944fc/3000.jpeg"
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/6123b26a8109425ba89a2fbf3f973838/3000.jpeg"
         }
     ],
     "status": "ok",
-    "totalResults": 10
+    "totalResults": 20
 }

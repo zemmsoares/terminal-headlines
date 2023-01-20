@@ -75,7 +75,7 @@ public:
 
     void draw()
     {
-        int output_row = _parent->_maxy - 1;
+        int output_row = _parent->_maxy;
         attron(_attributes);
         //mvwprintw(_parent, output_row,0, getText().c_str());
         mvwprintw(_parent, output_row,0, getTextStatus().c_str());
@@ -84,7 +84,7 @@ public:
     
     void drawBg()
     {
-        int output_row = _parent->_maxy - 1;
+        int output_row = _parent->_maxy;
         int x_max = getmaxx(_parent);
         attron(_attributes);
         for (int i = 0; i < x_max; i++) {
@@ -95,15 +95,19 @@ public:
 
     void drawLastUpdate()
     {
-        int output_row = _parent->_maxy -1;
+        int output_row = _parent->_maxy;
         int x_max = getmaxx(_parent);
+        attron(_attributes);
         mvwaddstr(_parent,output_row,x_max - 20, getLastUpdate().c_str());
+        attroff(_attributes);
     }
 
-     void drawLastUpdate2(std::string teste)
+     void drawKey(std::string teste,int x)
     {
-        int output_row = _parent->_maxy -1;
+        int output_row = _parent->_maxy;
         int x_max = getmaxx(_parent);
-        mvwaddstr(_parent,output_row,x_max - 40, teste.c_str());
+        attron(_attributes);
+        mvwaddstr(_parent,output_row,x, teste.c_str());
+        attroff(_attributes);
     }
 };

@@ -24,19 +24,40 @@ int main()
     
     /*current selected element for the list*/
     int current_element = 0;
+    int current_element_top_visible = 0;
+    int current_element_bottom_visible = 0;
 
     int x_max = getmaxx(stdscr);
+    int y_max = getmaxy(stdscr);
     /*Get request from API */
     /*Creates thread to not interfere with main getch*/
     /*runs every x time to get new data from the API*/
     std::string s;
-    std::thread t1([&s]() {
+    bool refreshed = true;
+    std::thread t1([&s,&current_element,&refreshed]() {
     Request request;
     StatusBar statusbar;
+    DisplayNews displaynews;
    
     while (true) {
-
+        clear();
         request.getRequests();
+        
+        // read json file
+        std::ifstream jsonFile("data.json");
+        json jsonData;
+        jsonFile >> jsonData;
+        jsonFile.close();
+
+        //display news
+        displaynews.draw(jsonData,current_element,true,0,0,0);
+
+        statusbar.setAttributes(COLOR_PAIR(2));
+        statusbar.drawBg();
+        statusbar.setText(" Press q to exit ", COLOR_PAIR(1));
+        statusbar.setTextStatus(" PRESS Q TO EXIT ", COLOR_PAIR(1));
+        statusbar.draw();
+        
         s = CurrentDate();
         statusbar.setLastUpdate(s);
         statusbar.drawLastUpdate();
@@ -55,14 +76,14 @@ int main()
 
     // Display news from JSON file
     DisplayNews displaynews;
-    displaynews.draw(jsonData,current_element);
+    displaynews.draw(jsonData,current_element,refreshed,0,0,0);
     
     /*Status Bar */
     start_color();
     init_pair(1, COLOR_WHITE, COLOR_BLUE);
-    init_pair(2, COLOR_BLUE, COLOR_BLUE);
-    init_pair(3, COLOR_WHITE, COLOR_RED);
-    init_pair(4, COLOR_WHITE, COLOR_MAGENTA);
+    init_pair(2, COLOR_BLACK, COLOR_BLACK);
+    init_pair(3, COLOR_BLACK, COLOR_RED);
+    init_pair(4, COLOR_WHITE, COLOR_BLACK);
 
     refresh(); //refresh screen
 
@@ -72,11 +93,29 @@ int main()
     while((key = getch()) != 'q'){
         switch(key){
             case 'j':
-                if(current_element < jsonData["articles"].size()-1) current_element++;
-                break;
+                if(current_element < jsonData["articles"].size()-1) {
+            current_element++;
+            if(current_element >= y_max - 3) {
+                if(current_element_bottom_visible < jsonData["articles"].size()-1) {
+                    current_element_bottom_visible++;
+                }
+                if(current_element_top_visible < jsonData["articles"].size()-1) {
+                    current_element_top_visible++;
+                }
+            }
+        }                break;
             case 'k':
-                if(current_element > 0) current_element--;
-                break;
+              if(current_element > 0) {
+            current_element--;
+            if(current_element < y_max - 3) {
+                if(current_element_bottom_visible > 0) {
+                    current_element_bottom_visible--;
+                }
+                if(current_element_top_visible > 0) {
+                    current_element_top_visible--;
+                }
+            }
+        }                break;
         case '\n':
             display_modal(current_element,jsonData);
             break;
@@ -85,6 +124,8 @@ int main()
         }
 
     clear();
+    
+    refreshed = false;
 
     // read json file
     std::ifstream jsonFile("data.json");
@@ -92,18 +133,35 @@ int main()
     jsonFile >> jsonData;
     jsonFile.close();
 
+
+
+
+
+
+
     //display news
-    displaynews.draw(jsonData,current_element);
+    displaynews.draw(jsonData,current_element,refreshed,y_max,current_element_bottom_visible,
+            current_element_top_visible);
     
     StatusBar statusbar;
     statusbar.setAttributes(COLOR_PAIR(2));
     statusbar.drawBg();
-    statusbar.setText(" Press q to exit ", COLOR_PAIR(1));
-    statusbar.setTextStatus(" NO ELEMENT SELECTED ", COLOR_PAIR(1));
     statusbar.draw();
+    statusbar.setAttributes(COLOR_PAIR(4));
     statusbar.setLastUpdate(s);
     statusbar.drawLastUpdate();
-
+   
+    /*quit*/
+    statusbar.setAttributes(COLOR_PAIR(3));
+    statusbar.drawKey(" q ",1);
+    statusbar.setAttributes(COLOR_PAIR(4));
+    statusbar.drawKey(" quit ",4);
+    /*open in browser*/
+    statusbar.setAttributes(COLOR_PAIR(3));
+    statusbar.drawKey(" o ",11);
+    statusbar.setAttributes(COLOR_PAIR(4));
+    statusbar.drawKey(" open ",14);
+ 
     refresh();
     }
 
