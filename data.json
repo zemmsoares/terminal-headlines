@@ -2,6 +2,110 @@
     "articles": [
         {
             "author": "Fox News",
+            "content": "One day after it was announced that Alec Baldwin was charged in the death of Halyna Hutchins, Alec and his wife Hilaria were spotted separately on the streets of New York. \r\nFox News Digital caught A… [+6249 chars]",
+            "description": "Eric Schiffer says charges against Alec Baldwin create \"pariah-like status\" for him in Hollywood. Baldwin was charged with involuntary manslaughter in the death of \"Rust\" cinematographer Halyna Hutchins.",
+            "publishedAt": "2023-01-20T22:07:20.4359197Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Alec Baldwin is 'dirty bomb in Hollywood’ after ‘Rust’ shooting: brand consultant",
+            "url": "https://www.foxnews.com/entertainment/alec-baldwin-dirty-bomb-hollywood-after-rust-shooting-brand-consultant",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/alec-baldwin-split-2-copy.jpg"
+        },
+        {
+            "author": "MICHAEL LIEDTKE",
+            "content": "SAN FRANCISCO (AP) — Elon Musk took the witness stand Friday to defend a 2018 tweet claiming he had lined up the financing to take Tesla private in a deal that never came close to happening.The tweet… [+3681 chars]",
+            "description": "SAN FRANCISCO (AP) — Elon Musk took the witness stand Friday to defend a 2018 tweet claiming he had lined up the financing to take Tesla private in a deal that never came close to happening.The tweet resulted in a $40 million settlement with securities regula…",
+            "publishedAt": "2023-01-20T21:35:16Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Elon Musk takes witness stand to defend Tesla buyout tweets",
+            "url": "https://apnews.com/506e98a2f98fb10e9a6477befdaa9627",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/f7e1a259650a40c4bc272d5ba2f1c73e/3000.jpeg"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Former White House press secretary Ari Fleischer discusses the criticism facing Karine Jean-Pierre for her failure to adequately answer press questions. He also weighs in on the 'hypocrisy' of officials at the World Economic Forum.",
+            "publishedAt": "2023-01-20T21:07:32.0748853Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Ari Fleischer: The White House is not explaining their fumbles, and they owe it to the press corps | Fox News Video",
+            "url": "https://www.foxnews.com/video/6318973802112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/01567ecb-1fc6-4f90-adaa-09f797b0a2fe/0c7f605c-1e92-4e0a-a8b8-bccc84c17610/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Fox News national correspondent Griff Jenkins details the ongoing border crisis as Border Patrol agents back the GOP push for Homeland Security Secretary Mayorkas’ impeachment.",
+            "publishedAt": "2023-01-20T21:07:30.3409431Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Border agents back GOP calls for Mayorkas’ impeachment | Fox News Video",
+            "url": "https://www.foxnews.com/video/6318979818112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/50e194c0-bd76-4bb3-bb44-b850aeeb0319/34a2811c-efc0-415a-a38a-a740989ba7fb/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "‘Outnumbered’ panel reacts to NYC Mayor Eric Adams calling for federal help to address the migrant crisis, as Whoopi Goldberg says Texas should pay New York.",
+            "publishedAt": "2023-01-20T21:07:28.6519264Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Tomi Lahren: Democrats act like they don't know how this happened | Fox News Video",
+            "url": "https://www.foxnews.com/video/6318973438112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffc1806b-949c-4d5e-af66-89c939e1148f/5dc3e6db-c627-4f37-88fd-6f9e3ac7eba6/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Manhattan Institute senior fellow Rafael Mangual weighs in on the crime crisis facing cities nationwide and the left's push for soft on crime policies on 'America Reports.'",
+            "publishedAt": "2023-01-20T21:07:26.4181066Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "'It's not getting better': Rafael Mangual on crime spike | Fox News Video",
+            "url": "https://www.foxnews.com/video/6318980347112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1420066-8ba5-49ec-90d0-8df3b4691d70/f48b08d9-3090-4949-8a4e-088eb823f9aa/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "Radio host Charlamagne tha God said Friday that President Biden\r\n probably had \"dementia,\" leading to a heated debate over the president's mental agility on Friday with his liberal guests.\r\nCharlamag… [+3167 chars]",
+            "description": "Charlamagne tha God sparred with former MSNBC host Tiffany Cross over whether President Biden was suffering from \"dementia\" and should run again in 2024.",
+            "publishedAt": "2023-01-20T21:07:23.3082442Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Breakfast Club show erupts after hosts suggest Biden has dementia: 'I saw him talking to a ghost'",
+            "url": "https://www.foxnews.com/media/breakfast-club-show-erupts-hosts-suggest-biden-dementia-talking-ghost",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Screen-Shot-2023-01-20-at-3.04.37-PM.png"
+        },
+        {
+            "author": "NICK PERRY",
+            "content": "WELLINGTON, New Zealand (AP) — Education Minister Chris Hipkins is set to become New Zealand's next prime minister after he was the only candidate to enter the contest Saturday to replace Jacinda Ard… [+2805 chars]",
+            "description": "WELLINGTON, New Zealand (AP) — Education Minister Chris Hipkins is set to become New Zealand's next prime minister after he was the only candidate to enter the contest Saturday to replace Jacinda Ardern.",
+            "publishedAt": "2023-01-20T20:40:00Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Chris Hipkins to be New Zealand's next prime minister",
+            "url": "https://apnews.com/4b73db6d84e5e2e9b0875889cc462065",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/3c12f162a7c4402cb9fd25e528bc52a5/3000.jpeg"
+        },
+        {
+            "author": "Fox News",
             "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
             "description": "Former federal prosecutor Andy McCarthy and former law clerk to Justice Gorsuch Mike Davis weigh in on the impact of President Biden's classified documents scandal on 'The Story.'",
             "publishedAt": "2023-01-20T20:37:25.8719225Z",
@@ -12,19 +116,6 @@
             "title": "Andy McCarthy: Biden officials did not report classified documents to law enforcement | Fox News Video",
             "url": "https://www.foxnews.com/video/6318981917112",
             "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/908ee827-8882-4cfd-a842-e5f408d0ab90/698ca3ab-993a-43c9-a8eb-7c6f3f150a6b/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "Fox News",
-            "content": "Lisa Marie Presley's daughter, Riley Keough, is honoring her late mother.\r\nKeough took to Instagram on Friday morning to share a snap from her childhood. She gazes into Presley's eyes as she holds a … [+2631 chars]",
-            "description": "Lisa Marie Presley's daughter, Riley Keough, took to Instagram to share a throwback picture with her mom following her death earlier this month. The only daughter of Elvis and Priscilla Presley was 54.",
-            "publishedAt": "2023-01-20T20:37:24.1051589Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Lisa Marie Presley's daughter Riley Keough breaks silence on her death with touching throwback photo",
-            "url": "https://www.foxnews.com/entertainment/lisa-marie-presleys-daughter-riley-keough-breaks-silence-death-touching-throwback-photo",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/riley-lisa-marie-presley.jpg"
         },
         {
             "author": "Fox News",
@@ -67,7 +158,7 @@
         },
         {
             "author": "GENE JOHNSON and MARK THIESSEN",
-            "content": "ANCHORAGE, Alaska (AP) — For isolated communities at the top of the world, keeping the planet’s largest land predators -- polar bears -- out of town is key to coexistence.That can mean patrolling for… [+6539 chars]",
+            "content": null,
             "description": "ANCHORAGE, Alaska (AP) — For isolated communities at the top of the world, keeping the planet’s largest land predators -- polar bears -- out of town is key to coexistence.That can mean patrolling for the animals by snowmobile or four-wheeler, shooing them awa…",
             "publishedAt": "2023-01-20T19:27:41Z",
             "source": {
@@ -77,19 +168,6 @@
             "title": "Rare attack in Alaska renews interest in polar bear patrols",
             "url": "https://apnews.com/1b9b5745eb5f9b2b273588f019336e24",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/04feb60fc1a34fdf8eabb73a402deabe/3000.jpeg"
-        },
-        {
-            "author": "Fox News",
-            "content": "A Christian charity worker in Malta could face jail time after he claimed that his faith enabled him to turn away from a homosexual lifestyle he no longer wanted.\r\nMatthew Grech, 33, faces potential … [+10666 chars]",
-            "description": "Matthew Grech, a Christian from Malta, may be fined and face jail time after giving an interview recounting how he turned away from the gay lifestyle after his religious conversion.",
-            "publishedAt": "2023-01-20T18:07:20.605956Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Christian charity worker faces potential jail time, fine after speaking about leaving LGBT lifestyle",
-            "url": "https://www.foxnews.com/world/christian-charity-worker-faces-potential-jail-time-fine-speaking-leaving-lgbt-lifestyle",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Grech.jpg"
         },
         {
             "author": "ALANNA DURKIN RICHER",
@@ -103,97 +181,6 @@
             "title": "3 active-duty Marines charged in Jan. 6 Capitol riot",
             "url": "https://apnews.com/8fc62a5cb27f91b0f9c9447052ffa25d",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/24c38c1aa7604dd9acdde29dcf85738a/3000.jpeg"
-        },
-        {
-            "author": "AARON MORRISON",
-            "content": "NEW YORK (AP) — Administrators of a trust fund established to preserve historic Black churches in the United States on Friday revealed a list of houses of worship receiving $4 million in financial gr… [+6021 chars]",
-            "description": "NEW YORK (AP) — Administrators of a trust fund established to preserve historic Black churches in the United States on Friday revealed a list of houses of worship receiving $4 million in financial grants.",
-            "publishedAt": "2023-01-20T17:00:40Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Historic Black churches receive $4M in preservation grants",
-            "url": "https://apnews.com/886d6003ec5d939c6fd5f6ce758810c2",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ad1a85b4c5bb4488a2d6736b583fc96d/3000.jpeg"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Fox News contributor Joe Concha discusses White House press secretary Karine Jean-Pierre's refusal to adequately answer press questions during daily briefings.",
-            "publishedAt": "2023-01-20T16:52:20.6050925Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Joe Concha: Karine Jean-Pierre's briefings get 'more and more painful' | Fox News Video",
-            "url": "https://video.foxnews.com/v/6318957917112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e92400f0-9335-4b12-9438-2190bd65b611/450f6f39-8465-418e-8f54-04903b486646/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Lt. Gen Keith Kellogg (Ret) on the need for U.S. to continue to support Ukraine as the U.S. finalizes a 2.5 billion aid package",
-            "publishedAt": "2023-01-20T15:37:24.6208163Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Gen. Kellogg: Russia-Ukraine war will culminate in spring  | Fox News Video",
-            "url": "https://video.foxnews.com/v/6318965666112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ef4b69ee-98c2-40f7-aca7-40484711b5f8/ab88e592-46f3-40e2-8704-eacb2dde5440/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "MICHAEL PHILLIS and ADAM BEAM",
-            "content": "ACAMPO, Calif. (AP) — On Sunday morning, Kyle Starks woke up to floodwaters that reached the door of his Jeep after yet another heavy rain storm drenched California. Emergency crews showed up with bo… [+6569 chars]",
-            "description": "ACAMPO, Calif. (AP) — On Sunday morning, Kyle Starks woke up to floodwaters that reached the door of his Jeep after yet another heavy rain storm drenched California. Emergency crews showed up with boats to float Starks and other residents of his rural mobile …",
-            "publishedAt": "2023-01-20T15:00:33Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "In soaked California, few homeowners have flood insurance",
-            "url": "https://apnews.com/b71eadd83be6176d45f7a1baf7bb2576",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8141a9e8a131453a8331285bd199f340/3000.jpeg"
-        },
-        {
-            "author": "JAKE COYLE",
-            "content": "NEW YORK (AP) — There were, admittedly, some notable distractions at last year's ceremony, so you might have missed it: The old Oscar rules have gone out the window.A film, streamed by Apple TV+, won… [+7426 chars]",
-            "description": "NEW YORK (AP) — There were, admittedly, some notable distractions at last year's ceremony, so you might have missed it: The old Oscar rules have gone out the window.",
-            "publishedAt": "2023-01-20T14:59:50Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Here's what to expect from Tuesday's Oscar nominations",
-            "url": "https://apnews.com/c8177c672de869f0a316d32c65b4f8dc",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/1ac9e1ffd3fe46ec850627bcfc1be1c0/3000.jpeg"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Human Coalition Vice President Ben Watson shares his excitement surrounding the 50th March for Life event following the historic overturning of Roe v. Wade.",
-            "publishedAt": "2023-01-20T14:22:25.2773241Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Ben Watson on first March for Life since overturning Roe: ‘Still work to be done’ | Fox News Video",
-            "url": "https://video.foxnews.com/v/6318964436112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b8c48195-5b1e-4647-8cfe-cbbb1c0e85e4/e11a956f-7f44-405b-aa4d-3ca0326296e2/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Jeanne Mancini, president of March for Life, touts the 'absolutely momentous' reversal of Roe v. Wade and encourages supporters to keep marching.",
-            "publishedAt": "2023-01-20T13:37:24.9031246Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "March for Life president joins 'Fox & Friends' as event marks 50 years: 'A beautiful celebration' | Fox News Video",
-            "url": "https://video.foxnews.com/v/6318962607112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/97ce96f6-dbc9-4c18-9930-105706f1cc54/2ca61e13-1739-414b-86a5-6456106730f4/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         },
         {
             "author": "KELVIN CHAN",
@@ -210,14 +197,14 @@
         },
         {
             "author": "JESSICA GRESKO and MARK SHERMAN",
-            "content": "WASHINGTON (AP) — Eight months, 126 formal interviews and a 23-page report later, the Supreme Court said it has failed to discover who leaked a draft of the court’s opinion overturning abortion right… [+4805 chars]",
+            "content": "WASHINGTON (AP) — Eight months, 126 formal interviews and a 23-page report later, the Supreme Court said it has failed to discover who leaked a draft of the court’s opinion overturning abortion right… [+5356 chars]",
             "description": "WASHINGTON (AP) — Eight months, 126 formal interviews and a 23-page report later, the Supreme Court said it has failed to discover who leaked a draft of the court’s opinion overturning abortion rights.",
             "publishedAt": "2023-01-20T10:31:26Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Supreme Court leak report findings: Lax security, loose lips",
+            "title": "Supreme Court: Justices interviewed as part of leak probe",
             "url": "https://apnews.com/84303225919dfb4a784552e36ecaeb23",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/1877868eb403475e8be6a28eec47d98c/3000.jpeg"
         },
@@ -249,8 +236,8 @@
         },
         {
             "author": "LOLITA C. BALDOR and TARA COPP",
-            "content": "RAMSTEIN AIR BASE, Germany (AP) — Defense leaders meeting at a U.S. air base in Germany on Friday failed to resolve divisions over providing advanced battle tanks to Ukraine after more than five hour… [+7146 chars]",
-            "description": "RAMSTEIN AIR BASE, Germany (AP) — Defense leaders meeting at a U.S. air base in Germany on Friday failed to resolve divisions over providing advanced battle tanks to Ukraine after more than five hours of discussions about sending more military aid to the emba…",
+            "content": "RAMSTEIN AIR BASE, Germany (AP) — Ukraine will have to wait longer to find out if it will get advanced German-made battle tanks.A dispute over sending the tanks from Western allies to help Ukraine ag… [+6438 chars]",
+            "description": "RAMSTEIN AIR BASE, Germany (AP) — Ukraine will have to wait longer to find out if it will get advanced German-made battle tanks.A dispute over sending the tanks from Western allies to help Ukraine against Russia's invasion played out both in public and privat…",
             "publishedAt": "2023-01-20T05:11:17Z",
             "source": {
                 "id": "associated-press",

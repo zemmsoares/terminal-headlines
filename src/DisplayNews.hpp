@@ -8,7 +8,7 @@ class DisplayNews
     std::string _textstatus;
     attr_t _attributes;
 
-public:
+    public:
     DisplayNews(WINDOW *parent = stdscr)
     {
         _parent = parent;
@@ -16,24 +16,10 @@ public:
         _textstatus = "";
     }
 
-   
     void draw(json& jsonData,int current_element,bool refreshed,int max,
             int current_element_bottom_visible, int current_element_top_visible)
     {
         int row = 0;
-        //Number of rows displayed based on scree max rows
-        //redo this with ternary or something more readable
-        int size = 0;
-        if(jsonData["articles"].size() >= max){
-            size = max - 3;
-        }else if(jsonData["articles"].size() == max-1){
-            size = max - 3;
-        }else if(jsonData["articles"].size() == max-2){
-            size = max - 1;
-        }else{
-            size = jsonData["articles"].size();
-        }
-       
 
         for (int i = current_element_top_visible; i < jsonData["articles"].size(); i++) {
             if(i == current_element) {
@@ -51,22 +37,22 @@ public:
                 addstr(std::to_string(i).c_str());
               
                 //debug
-               addstr(" ~ "); 
+        addstr(" ~ "); 
                 addstr(std::to_string(jsonData["articles"].size()).c_str());
 
                 addstr(" ~ "); 
                 addstr(std::to_string(max).c_str());
                 
-                addstr(" ~ "); 
+                    addstr(" ~ "); 
                 addstr(std::to_string(current_element).c_str());
 
                 addstr(" b: "); 
                 addstr(std::to_string(current_element_bottom_visible).c_str());
-
+   
                 addstr(" t: "); 
                 addstr(std::to_string(current_element_top_visible).c_str());
                 /*if int number only has one decimal*/
-                /*add a space to even the cols*/
+                   /*add a space to even the cols*/
                 if(i<10){
                     addstr(" ");
                 }
