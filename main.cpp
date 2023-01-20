@@ -19,18 +19,30 @@ int main()
     initscr();
     noecho();
     cbreak();
+
+    use_default_colors();
     
     /*current selected element for the list*/
     int current_element = 0;
 
     int x_max = getmaxx(stdscr);
-
     /*Get request from API */
-    std::thread t1([]() {
+    /*Creates thread to not interfere with main getch*/
+    /*runs every x time to get new data from the API*/
+    std::string s;
+    std::thread t1([&s]() {
     Request request;
+    StatusBar statusbar;
+   
     while (true) {
+
         request.getRequests();
-        std::this_thread::sleep_for(std::chrono::seconds(5));
+        s = CurrentDate();
+        statusbar.setLastUpdate(s);
+        statusbar.drawLastUpdate();
+        refresh();
+        std::this_thread::sleep_for(std::chrono::minutes(5)); 
+        refresh();
         }
     });
     t1.detach();
@@ -49,20 +61,12 @@ int main()
     start_color();
     init_pair(1, COLOR_WHITE, COLOR_BLUE);
     init_pair(2, COLOR_BLUE, COLOR_BLUE);
-    
-    StatusBar statusbar;
-    statusbar.setAttributes(COLOR_PAIR(2));
-    statusbar.drawBg();
-    statusbar.setText(" Press q to exit ", COLOR_PAIR(1));
-    statusbar.setTextStatus(" NO ELEMENT SELECTED ", COLOR_PAIR(1));
-    statusbar.draw();
-    statusbar.drawTextEnd();
+    init_pair(3, COLOR_WHITE, COLOR_RED);
+    init_pair(4, COLOR_WHITE, COLOR_MAGENTA);
 
-    refresh();
+    refresh(); //refresh screen
 
     curs_set(0); //hide cursor
-
-
     
     int key;
     while((key = getch()) != 'q'){
@@ -78,34 +82,29 @@ int main()
             break;
         case 'o':
             open_link(current_element,jsonData);
-
-            // 'k' and 'l' cases
         }
 
-        // Clear the screen before redrawing the elements
-        clear();
+    clear();
 
-        
     // read json file
     std::ifstream jsonFile("data.json");
     json jsonData;
     jsonFile >> jsonData;
     jsonFile.close();
 
-
+    //display news
     displaynews.draw(jsonData,current_element);
     
-std::string s = CurrentDate();    
-
+    StatusBar statusbar;
     statusbar.setAttributes(COLOR_PAIR(2));
     statusbar.drawBg();
     statusbar.setText(" Press q to exit ", COLOR_PAIR(1));
-    statusbar.setTextStatus(std::to_string(current_element));
+    statusbar.setTextStatus(" NO ELEMENT SELECTED ", COLOR_PAIR(1));
     statusbar.draw();
-    statusbar.setTextTime(s);
-    statusbar.drawTextEnd();
+    statusbar.setLastUpdate(s);
+    statusbar.drawLastUpdate();
 
-        refresh();
+    refresh();
     }
 
 

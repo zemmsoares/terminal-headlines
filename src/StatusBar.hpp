@@ -6,7 +6,7 @@ class StatusBar
     WINDOW *_parent;
     std::string _text;
     std::string _textstatus;
-    std::string _texttime;
+    std::string _textlastupdate;
     attr_t _attributes;
 
 public:
@@ -15,7 +15,7 @@ public:
         _parent = parent;
         _text = "";
         _textstatus = "";
-        _texttime = "";
+        _textlastupdate = "";
     }
 
     std::string getText()
@@ -47,14 +47,14 @@ public:
         }
     }
 
-    std::string getTextTime()
+    std::string getLastUpdate()
     {
-        return _texttime;
+        return _textlastupdate;
     }
 
-    void setTextTime(std::string texttime, attr_t attributes = 0)
+    void setLastUpdate(std::string textlastupdate, attr_t attributes = 0)
     {
-        _texttime = texttime;
+        _textlastupdate = textlastupdate;
         if (attributes != 0)
         {
             _attributes = attributes;
@@ -93,10 +93,17 @@ public:
         attroff(_attributes);
     }
 
-    void drawTextEnd()
+    void drawLastUpdate()
     {
         int output_row = _parent->_maxy -1;
         int x_max = getmaxx(_parent);
-        mvwaddstr(_parent,output_row,x_max - 20,getTextTime().c_str());
+        mvwaddstr(_parent,output_row,x_max - 20, getLastUpdate().c_str());
+    }
+
+     void drawLastUpdate2(std::string teste)
+    {
+        int output_row = _parent->_maxy -1;
+        int x_max = getmaxx(_parent);
+        mvwaddstr(_parent,output_row,x_max - 40, teste.c_str());
     }
 };
