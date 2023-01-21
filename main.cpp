@@ -44,7 +44,7 @@ int main() {
       request.getRequests();
 
       // read json file
-      std::ifstream jsonFile("data.json");
+      std::ifstream jsonFile("./data/data.json");
       json jsonData;
       jsonFile >> jsonData;
       jsonFile.close();
@@ -82,14 +82,14 @@ int main() {
   /*-------------------------------------*/
 
   // read json file
-  std::ifstream jsonFile("data.json");
+  std::ifstream jsonFile("./data/data.json");
   json jsonData;
   jsonFile >> jsonData;
   jsonFile.close();
 
   // Display news from JSON file
   DisplayNews displaynews;
-  displaynews.draw(jsonData, current_element, refreshed, 0, 0, 0);
+  //displaynews.draw(jsonData, current_element, refreshed, 0, 0, 0);
 
   /*Status Bar */
   start_color();
@@ -144,7 +144,7 @@ int main() {
     refreshed = false;
 
     // read json file
-    std::ifstream jsonFile("data.json");
+    std::ifstream jsonFile("./data/data.json");
     json jsonData;
     jsonFile >> jsonData;
     jsonFile.close();
