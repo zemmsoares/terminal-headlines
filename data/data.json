@@ -2,72 +2,228 @@
     "articles": [
         {
             "author": "Fox News",
-            "content": "Several people took to Twitter Friday evening to criticize President Biden after he tweeted that he had \"never been more optimistic\" about serving another two years in the White House.\r\n\"Two years in… [+3625 chars]",
-            "description": "President Biden received some backlash on Twitter Friday evening after he said that he is looking forward to another two years of his term in the White House.",
-            "publishedAt": "2023-01-21T09:37:20.4425934Z",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Former Deputy Assistant Attorney General Tom Dupree discusses the investigations into, and questions raised on Joe Biden's storage of classified documents.",
+            "publishedAt": "2023-01-21T19:22:24.0679392Z",
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "title": "Biden's tweet about his optimism for America prompts immediate backlash: 'Jesus take the wheel'",
-            "url": "https://www.foxnews.com/politics/bidens-tweet-optimism-america-prompts-immediate-backlash-jesus-wheel",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/GettyImages-1457133680.jpg"
+            "title": "Biden doc investigations 'puts the administration in a box': Tom Dupree | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319046693112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec8209d-c785-4916-bbf1-c8d187efd221/eece0abd-4a9b-41fe-937e-71b5a1732d2b/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         },
         {
-            "author": null,
-            "content": "VISEGRAD, Bosnia-Herzegovina (AP) — Tons of waste dumped in poorly regulated riverside landfills or directly into the waterways that flow across three countries end up accumulating behind a trash bar… [+3016 chars]",
-            "description": "VISEGRAD, Bosnia-Herzegovina (AP) — Tons of waste dumped in poorly regulated riverside landfills or directly into the waterways that flow across three countries end up accumulating behind a trash barrier in the Drina River in eastern Bosnia during the wet wea…",
-            "publishedAt": "2023-01-21T07:56:25Z",
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Rep. Debbie Dingell, D-Mich., joins 'Fox News Live' to discuss to President Biden's handling of classified documents, the investigation by the DOJ and the debt ceiling.",
+            "publishedAt": "2023-01-21T19:22:21.4262041Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Rep. Debbie Dingell 'wants the facts' on Biden doc handling | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319045889112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d030d646-9767-402e-9b6e-0b303f92bf02/b9a1de3c-43b7-436d-8fc3-d3f064dcd6dd/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "CARLA BRIDI",
+            "content": "BRASILIA, Brazil (AP) — President Luiz Inacio Lula da Silva fired Brazil's army chief Saturday amid concerns over threats to the country's democracy following the Jan. 8 uprising in the capital by fa… [+527 chars]",
+            "description": "BRASILIA, Brazil (AP) — President Luiz Inacio Lula da Silva fired Brazil's army chief Saturday amid concerns over threats to the country's democracy following the Jan. 8 uprising in the capital by far-right protesters.",
+            "publishedAt": "2023-01-21T18:59:04Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Sections of Balkan river become floating garbage dump",
-            "url": "https://apnews.com/1f40635991a1f223c9dadb58c8a2c6c1",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/389e3cb31dbd41d2b5d35f84bfb2301b/3000.jpeg"
+            "title": "Brazil's army chief fired in aftermath of capital uprising",
+            "url": "https://apnews.com/42151a9c0ea511391b990a9527754c1e",
+            "urlToImage": ""
         },
         {
-            "author": null,
-            "content": "SAN JOSE, Calif. (AP) — Elizabeth Holmes is a flight risk and shouldn’t be allowed to stay out of prison while she appeals her 11-year prison sentence for defrauding investors, federal prosecutors sa… [+1958 chars]",
-            "description": "SAN JOSE, Calif. (AP) — Elizabeth Holmes is a flight risk and shouldn’t be allowed to stay out of prison while she appeals her 11-year prison sentence for defrauding investors, federal prosecutors said in court documents.",
-            "publishedAt": "2023-01-21T07:54:10Z",
+            "author": "Fox News",
+            "content": "A plane that crashed in the woods was less than two miles from a suburban New York airport and \"set up perfectly\" for landing before it fell from the sky, but the occupants knew it was their final mo… [+2885 chars]",
+            "description": "Two people died after a small plane crashed in a wooded area near Westchester County airport after departing JFK Airport in Queens, New York.",
+            "publishedAt": "2023-01-21T18:52:22.6770484Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "NY audio reveals final minutes before plane crash, as 2 occupants called families to say goodbye",
+            "url": "https://www.foxnews.com/us/ny-audio-reveals-final-minutes-plane-crash-2-occupants-called-families-say-goodbye",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/IMG_9362.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "HBO and actress Mindy Kaling's \"Scooby Doo\" spin-off series \"Velma\" added more controversial content to its repertoire in its latest episode, this time treating sexualizing kids as a joke. \r\nDuring e… [+5159 chars]",
+            "description": "The critically-panned \"Velma\" series added sexual jokes about underaged teens and little kids to its repertoire of raunchy, subversive humor this week.",
+            "publishedAt": "2023-01-21T18:37:21.1297642Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "‘Scooby-Doo’ spinoff ‘Velma’ jokes about sexualizing teens as woke series endures blistering ratings, reviews",
+            "url": "https://www.foxnews.com/media/scooby-doo-spinoff-velma-jokes-about-sexualizing-teens-woke-series-endures-blistering-ratings-reviews",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2018/09/scoobydoo1.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Rep. Burgess Owens, R-Utah, discusses President Biden’s response to the documents scandal and shares how the GOP-led House plans to enact oversight.",
+            "publishedAt": "2023-01-21T18:22:19.8017788Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "President Biden is ‘consistent’ in his dishonesty: Rep. Burgess Owens | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319042365112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ea66da50-1df3-42ef-b869-64a6bcaa62b4/ca7be4b0-a551-4db3-9eff-fb275728e975/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "The home of an Area 51 website owner was violently raided by more than a dozen armed FBI agents in November, and since then, Joerg Arnu has received minimal explanation for the bombardment that cause… [+3975 chars]",
+            "description": "Area 51 expert Joerg Arnu explains how U.S. government agents searched his home and 'dragged' him into the street with minimal explanation",
+            "publishedAt": "2023-01-21T18:07:23.5116449Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Area 51 expert slams US government for raiding his home: I’ve lost faith in the justice system",
+            "url": "https://www.foxnews.com/media/area-51-expert-slams-us-government-raiding-home-lost-faith-justice-system",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/07/AP19199085821949.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "Ivan Provorov of the Philadelphia Flyers\r\n did not take the ice for a pregame skate Tuesday due to the team wearing Pride-themed jerseys and using hockey sticks wrapped in rainbow Pride tape, citing … [+2754 chars]",
+            "description": "Twitter CEO Elon Musk responded on Twitter to the backlash aimed toward Ivan Provorov who chose to not participate in the Philadelphia Flyers pregame Pride Night festivities.",
+            "publishedAt": "2023-01-21T18:07:21.1918725Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Elon Musk comments on Flyers' Provorov Pride Night backlash: 'Pendulum has swung a bit too far'",
+            "url": "https://www.foxnews.com/sports/elon-musk-comments-flyers-provorov-pride-night-backlash-pendulum-swung-bit-too-far",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Ivan-Provorov6.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Co-host of 'The Big Money Show' Brian Brenberg discusses the debt limit drama as the fight to control government spending continues, on ‘Cavuto Live.’",
+            "publishedAt": "2023-01-21T17:52:21.2543088Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "GOP will have to get ‘creative’ to resolve the US government’s spending spree: Brian Brenberg | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319042317112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/625fc177-4d9f-4dde-838f-8927dd4ae61e/70e62b83-dfc8-41b7-bb8d-79f0fc902c01/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "‘Townhall.com’ managing editor Spencer Brown and former federal prosecutor Jonathan Fahey discuss the growing Biden documents scandal and weigh what impact they may have on President Biden’s 2024 plans.",
+            "publishedAt": "2023-01-21T17:52:19.5203646Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Biden’s ‘no regrets’ comment is ‘new low for this unaccountable president’: Spencer Brown | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319041563112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/456d8b6b-b148-497f-ac75-154c7a00addb/a9f6602e-fb0d-4d33-ba90-f20c7b5c5156/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "FATIMA HUSSEIN",
+            "content": "DAKAR, Senegal (AP) — U.S. Treasury Secretary Janet Yellen said in an Associated Press interview Saturday she expects Congress will ultimately vote to raise America's debt limit, but demands by House… [+6690 chars]",
+            "description": "DAKAR, Senegal (AP) — U.S. Treasury Secretary Janet Yellen said in an Associated Press interview Saturday she expects Congress will ultimately vote to raise America's debt limit, but demands by House Republicans for spending cuts in return for backing an incr…",
+            "publishedAt": "2023-01-21T16:43:03Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "Prosecutors: Convicted CEO Elizabeth Holmes is a flight risk",
-            "url": "https://apnews.com/b2c6bafe8b82f36bc0bcffebf31d43f0",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c7fc9514bd834b1a983d298a3a124c3d/3000.jpeg"
+            "title": "The AP Interview: Yellen says debt standoff risks ‘calamity’",
+            "url": "https://apnews.com/0f7f0d85ed38353940a18cd262de8b09",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/46d1e3e45c71428aba174cd5759b3376/2625.jpeg"
         },
         {
             "author": "Fox News",
-            "content": "Mike really likes bikes.\r\n\"American Pickers\" star Mike Wolfe has been collecting vintage motorcycles for over 30 years.\r\nHe owns more than 110 but has decided to sell 62 of them at an upcoming Mecum … [+4041 chars]",
-            "description": "\"American Pickers\" star Mike Wolfe is auctioning a collection of 70 motorcycles he's purchased over the past 30 years at a Mecum Auctions event in Las Vegas.",
-            "publishedAt": "2023-01-21T07:37:27.8492254Z",
+            "content": "Chicago police said Saturday that a concealed carry holder used his gun to shoot a man who allegedly had attempted to rob him on Friday afternoon while riding a CTA Green Line train. \r\nThe incident o… [+1401 chars]",
+            "description": "A concealed carry holder used his gun to shoot a man who allegedly attempted to rob him on Friday while they were riding a CTA Green Line train in Chicago.",
+            "publishedAt": "2023-01-21T16:37:21.0670883Z",
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "title": "'American Pickers' star Mike Wolfe auctioning his collection of 62 vintage motorcycles",
-            "url": "https://www.foxnews.com/auto/american-pickers-mike-wolfe-auctioning-collection-vintage-motorcycles",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/mike-bikes.jpg"
+            "title": "Alleged Chicago CTA train robber shot by concealed carry holder",
+            "url": "https://www.foxnews.com/us/alleged-chicago-cta-robber-shot-concealed-carry-holder",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Green-Line.jpg"
         },
         {
-            "author": "Fox News",
-            "content": "EAGLE PASS, Texas Border Patrol is failing to hire agents fast enough to replace thousands of soon-to-be retirees, and current and former employees say overly aggressive and unaccountable polygraph e… [+7015 chars]",
-            "description": "Border Patrol has struggled with recruitment for years. But the union says plenty of prospective agents are applying, they just can't pass the mandatory polygraph.",
-            "publishedAt": "2023-01-21T07:37:24.9575975Z",
+            "author": "MAE ANDERSON",
+            "content": "NEW YORK (AP) — One day in January, a once-regular customer at Fuel Training Studio in Newburyport, Massachusetts, stopped in to take a “shred” class. She hadn’t stepped foot in the gym since before … [+5653 chars]",
+            "description": "NEW YORK (AP) — One day in January, a once-regular customer at Fuel Training Studio in Newburyport, Massachusetts, stopped in to take a “shred” class. She hadn’t stepped foot in the gym since before the pandemic.",
+            "publishedAt": "2023-01-21T16:04:10Z",
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "title": "Amid Border Patrol recruitment crisis, one step of the hiring process is wiping out tons of applicants",
-            "url": "https://www.foxnews.com/us/amid-border-patrol-recruitment-crisis-one-step-hiring-process-wiping-tons-applicants",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/border-patrol-agent.jpg"
+            "title": "Gyms that survived pandemic steadily get back in shape",
+            "url": "https://apnews.com/6624e5c1c4b8981d1539b258a470d383",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/680d9972e1564f92a2c2b3cffdef3b24/3000.jpeg"
+        },
+        {
+            "author": "DAVID BILLER and NATÁLIA SCARABOTTO",
+            "content": "RIO DE JANEIRO (AP) — Brazil’s defeated former president, Jair Bolsonaro, was in Florida this month when his supporters tried — but failed — to overthrow the country’s young democracy. It was a sign … [+7214 chars]",
+            "description": "RIO DE JANEIRO (AP) — Brazil’s defeated former president, Jair Bolsonaro, was in Florida this month when his supporters tried — but failed — to overthrow the country’s young democracy.",
+            "publishedAt": "2023-01-21T16:02:41Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Brazil’s right-wing movement persists without Bolsonaro",
+            "url": "https://apnews.com/8d7e202b93b6cba7196c4baba32b6452",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/abce13f9a13043e48a886c40db36cc35/3000.jpeg"
+        },
+        {
+            "author": "FARNOUSH AMIRI",
+            "content": "WASHINGTON (AP) — In early 2017, freshman Rep. James Comer found himself aboard Air Force One with the country's two most powerful Republicans, President Donald Trump and Senate Majority Leader Mitch… [+8398 chars]",
+            "description": "WASHINGTON (AP) — In early 2017, freshman Rep. James Comer found himself aboard Air Force One with the country's two most powerful Republicans, President Donald Trump and Senate Majority Leader Mitch McConnell.",
+            "publishedAt": "2023-01-21T13:50:53Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "GOP investigations of Biden to test Chairman Comer’s power",
+            "url": "https://apnews.com/d68267048aa4f42d244130e81d3e9c30",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2f25e65fe7454f0f977d5280def3c837/3000.jpeg"
+        },
+        {
+            "author": "JUAN A. LOZANO",
+            "content": "HOUSTON (AP) — Abdul Wasi Safi kept documents detailing his time as an Afghan soldier who worked with the U.S. military close to him as he made the monthslong, treacherous journey from Brazil to the … [+5648 chars]",
+            "description": "HOUSTON (AP) — Abdul Wasi Safi kept documents detailing his time as an Afghan soldier who worked with the U.S. military close to him as he made the monthslong, treacherous journey from Brazil to the U.S.-Mexico border.",
+            "publishedAt": "2023-01-21T13:19:04Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Afghan soldier seeks asylum after arrest at US-Mexico border",
+            "url": "https://apnews.com/fa6df3564a022d13fc3046a65e2c7795",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/16b580d4c0b94aefadd272fd6eb05b35/3000.jpeg"
+        },
+        {
+            "author": "ANNIE MA and BEN FINLEY",
+            "content": "As kids' behavior reaches crisis points after the stress and isolation of pandemic shutdowns, many schools are facing pressure from critics to rethink their approaches to discipline — including polic… [+5714 chars]",
+            "description": "As kids' behavior reaches crisis points after the stress and isolation of pandemic shutdowns, many schools are facing pressure from critics to rethink their approaches to discipline — including policies intended to reduce suspensions and expulsions.",
+            "publishedAt": "2023-01-21T13:13:23Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Schools face pressure to take harder line on discipline",
+            "url": "https://apnews.com/124a978f3f76f53f1cb90ae4da21da4a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/41122fb2d0e84402b71df2c43dc13a04/3000.jpeg"
         },
         {
             "author": "GEIR MOULSON",
-            "content": "BERLIN (AP) — Germany has become one of Ukraine's leading weapons suppliers in the 11 months since Russia's invasion, but Chancellor Olaf Scholz also has gained a reputation for hesitating to take ea… [+5655 chars]",
+            "content": "BERLIN (AP) — Germany has become one of Ukraine's leading weapons suppliers in the 11 months since Russia's invasion, but Chancellor Olaf Scholz also has gained a reputation for hesitating to take ea… [+5991 chars]",
             "description": "BERLIN (AP) — Germany has become one of Ukraine's leading weapons suppliers in the 11 months since Russia's invasion, but Chancellor Olaf Scholz also has gained a reputation for hesitating to take each new step — generating impatience among allies.",
             "publishedAt": "2023-01-21T07:24:28Z",
             "source": {
@@ -77,84 +233,6 @@
             "title": "German caution on Ukraine arms rooted in political culture",
             "url": "https://apnews.com/bd856c1cd625307361a23c81c68cac99",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/c685bca2f1aa48578b59c442db0bc656/3000.jpeg"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Kellyanne Conway: The Democrats are stuck with Joe Biden and Kamala Harris.",
-            "publishedAt": "2023-01-21T06:22:18.9260709Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Kellyanne Conway rips into how the left is replacing merit with diversity | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319009800112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6f94a9d-9868-4884-991e-264c604d0c19/d29e3295-ac49-45bb-93ce-f2fccfbc0f80/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "JOE REEDY",
-            "content": "LOS ANGELES (AP) — Lakers coach Darvin Ham had seen his squad on the wrong end of close losses for the past week.On Friday night, Ham saw his team's mettle and resolve pay off.Dennis Schröder complet… [+3151 chars]",
-            "description": "LOS ANGELES (AP) — Lakers coach Darvin Ham had seen his squad on the wrong end of close losses for the past week.On Friday night, Ham saw his team's mettle and resolve pay off.Dennis Schröder completed a three-point play with 7.6 seconds after a steal, and Lo…",
-            "publishedAt": "2023-01-21T06:09:56Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Lakers rally to snap Grizzlies' winning streak at 11 games",
-            "url": "https://apnews.com/d12e6f78c979fcb3b3a4b059e4a70a91",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b85a7db24b604fe1a8fb0b272011883b/3000.jpeg"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Andrea Reeb, special prosecutor for 'Rust' shooting case comments on charges against Alec Baldwin on 'Hannity.'",
-            "publishedAt": "2023-01-21T06:07:21.2553517Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "'Someone's political party has never been an issue on why we charge somebody': 'Rust' case special prosecutor | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319006222112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0593dd9f-021c-4fe5-aaae-f08695b1a6c6/7e2b8bb0-0f06-4d8c-a2d1-e2f35bdfc177/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Hudson Institute senior fellow Michael Pillsbury says war games conducted by the Center for Strategic & International Studies (CSIS) on a Chinese invasion of Taiwan is 'all the more reason to try to deter' an invasion on 'Fox News @ Night.'",
-            "publishedAt": "2023-01-21T06:07:20.1931151Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Study analyzing the fallout if China invades Taiwan is 'scary': Michael Pillsbury | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319003560112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/135413ef-300e-46bd-a15e-cfe51ba49ff7/0bdfd926-9071-4236-a197-80ac319995ef/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "‘The Egg Hustler’ Steven Gillen shares with ‘Tucker Carlson Tonight’ how he is providing free eggs for his community.",
-            "publishedAt": "2023-01-21T06:07:18.7715944Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "I had more eggs than I could handle so I gave them away: Steven Gillen | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319004896112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/766704e8-3cfe-4e3a-8326-9b8774c8ed2e/fbaf3773-90e9-4bdb-989c-6a88d2823727/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "California State assembly members Bill Essayli and Kate Sanchez discuss their wins in CA and the border disaster on ‘Fox News @ Night.’",
-            "publishedAt": "2023-01-21T06:07:17.6156319Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Two Millennial Republicans win seats in CA assembly | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319010363112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/908dbb7c-df95-4e0b-b255-ed1f04fab10a/97d55f13-a91a-461a-9b48-d01dfab1c293/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         },
         {
             "author": "SARA BURNETT",
@@ -170,71 +248,6 @@
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/50067da9d12d47c3bd101d0260828229/3000.jpeg"
         },
         {
-            "author": "Fox News",
-            "content": "Vanna White has worn more than 7,000 outfits on \"Wheel of Fortune,\" but it's her latest ensemble that's causing a stir.\r\nThe game show hostess stepped out on Wednesday night's show in a hot pink, asy… [+3010 chars]",
-            "description": "\"Wheel of Fortune\" hostess Vanna White faced criticism for her latest wardrobe choice on the game show, as she donned a hot pink asymmetrical dress with black pants underneath.",
-            "publishedAt": "2023-01-21T04:22:13.4112151Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "‘Wheel of Fortune’ Vanna White’s recent ‘strange’ outfit slammed by fans: ‘Why would she agree to wear that’",
-            "url": "https://www.foxnews.com/entertainment/wheel-of-fortune-vanna-whites-strange-outfit-slammed-fans",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/GettyImages-1398447489.jpg"
-        },
-        {
-            "author": "Fox News",
-            "content": "Fox News Senior Vice President of News &amp; Politics Alan Komissaroff died on Friday after suffering a heart attack at his home earlier this month. He was 47 years old. \r\n\"This is an extremely diffi… [+2364 chars]",
-            "description": "Fox News Senior Vice President of News & Politics Alan Komissaroff died on Friday after suffering a heart attack at his home nearly two weeks ago. He was 47 years old.",
-            "publishedAt": "2023-01-20T22:52:18.0425663Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Longtime Fox News Channel executive Alan Komissaroff dead at 47",
-            "url": "https://www.foxnews.com/media/longtime-fox-news-executive-alan-komissaroff-dead-47",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/komissaroff-headshot.png"
-        },
-        {
-            "author": "ELLEN KNICKMEYER",
-            "content": "WASHINGTON (AP) — Taiwan has learned important lessons from Ukraine’s war that would help it deter any attack by China or defend itself if invaded, the self-ruled island's top envoy to the U.S. said … [+6255 chars]",
-            "description": "WASHINGTON (AP) — Taiwan has learned important lessons from Ukraine’s war that would help it deter any attack by China or defend itself if invaded, the self-ruled island's top envoy to the U.S. said in an interview Friday with The Associated Press.",
-            "publishedAt": "2023-01-20T22:45:16Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "The AP Interview: Envoy says Taiwan learns from Ukraine war",
-            "url": "https://apnews.com/aace5bd86f796473efcd4b65a8daca5f",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/557c6ea9bc404310a9647d3dc5e10d26/3000.jpeg"
-        },
-        {
-            "author": "BRIAN MELLEY",
-            "content": "LOS ANGELES (AP) — Lawyers for the 5-year-old son of a man who died after repeatedly being shocked by Los Angeles police with a stun gun following a traffic collision filed a $50 million claim Friday… [+2933 chars]",
-            "description": "LOS ANGELES (AP) — Lawyers for the 5-year-old son of a man who died after repeatedly being shocked by Los Angeles police with a stun gun following a traffic collision filed a $50 million claim Friday for damages against the city.",
-            "publishedAt": "2023-01-20T22:35:04Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Son seeks $50M from LA for dad's death from stun gun zaps",
-            "url": "https://apnews.com/11441b01716d56c0732a71578fe482e2",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/0673aca9b0014dd49e91820dee3183ee/3000.jpeg"
-        },
-        {
-            "author": "MEG KINNARD",
-            "content": "COLUMBIA, S.C. (AP) — The executive director of former United Nations Ambassador Nikki Haley’s issues advocacy group is leaving to help run similar efforts for former Vice President Mike Pence, a def… [+3490 chars]",
-            "description": "COLUMBIA, S.C. (AP) — The executive director of former United Nations Ambassador Nikki Haley’s issues advocacy group is leaving to help run similar efforts for former Vice President Mike Pence, a defection that comes as both former Trump administration offici…",
-            "publishedAt": "2023-01-20T21:00:31Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Operative jumps from Haley team to Pence amid 2024 jostling",
-            "url": "https://apnews.com/72ff88bb4bb96655c3bd0543fef7d551",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/a19bb2fe86eb4bc59fcae23a1801d625/3000.jpeg"
-        },
-        {
             "author": "GENE JOHNSON and MARK THIESSEN",
             "content": "ANCHORAGE, Alaska (AP) — For isolated communities at the top of the world, keeping the planet’s largest land predators -- polar bears -- out of town is key to coexistence.That can mean patrolling for… [+6539 chars]",
             "description": "ANCHORAGE, Alaska (AP) — For isolated communities at the top of the world, keeping the planet’s largest land predators -- polar bears -- out of town is key to coexistence.That can mean patrolling for the animals by snowmobile or four-wheeler, shooing them awa…",
@@ -246,19 +259,6 @@
             "title": "Rare attack in Alaska renews interest in polar bear patrols",
             "url": "https://apnews.com/1b9b5745eb5f9b2b273588f019336e24",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/04feb60fc1a34fdf8eabb73a402deabe/3000.jpeg"
-        },
-        {
-            "author": "MICHAEL PHILLIS and ADAM BEAM",
-            "content": "ACAMPO, Calif. (AP) — On Sunday morning, Kyle Starks woke up to floodwaters that reached the door of his Jeep after yet another heavy rain storm drenched California. Emergency crews showed up with bo… [+6569 chars]",
-            "description": "ACAMPO, Calif. (AP) — On Sunday morning, Kyle Starks woke up to floodwaters that reached the door of his Jeep after yet another heavy rain storm drenched California. Emergency crews showed up with boats to float Starks and other residents of his rural mobile …",
-            "publishedAt": "2023-01-20T15:00:33Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "In soaked California, few homeowners have flood insurance",
-            "url": "https://apnews.com/b71eadd83be6176d45f7a1baf7bb2576",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8141a9e8a131453a8331285bd199f340/3000.jpeg"
         }
     ],
     "status": "ok",
