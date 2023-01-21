@@ -1,4 +1,4 @@
-#include "../format_datetime.cpp"
+#include "./format_datetime.cpp"
 #include "./json.hpp"
 #include <ncurses.h>
 #include <string>

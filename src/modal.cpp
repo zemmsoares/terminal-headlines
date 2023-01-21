@@ -1,3 +1,8 @@
+#include <ncurses.h>
+#include "./json.hpp"
+
+using json = nlohmann::json;
+
 void display_modal(int current_element, json jsonData) {
     // create new window and position it in the center of the screen
     int modal_height = 10;

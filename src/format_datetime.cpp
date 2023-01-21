@@ -1,4 +1,4 @@
-#include "./src/json.hpp"
+#include "./json.hpp"
 
 std::string format_datetime(std::string publishedAt) {
   std::tm tm = {};

@@ -4,9 +4,9 @@
 #include "src/DisplayNews.hpp"
 #include "src/Request.hpp"
 #include "src/StatusBar.hpp"
-#include "current_time.cpp"
-#include "link.cpp"
-#include "modal.cpp"
+#include "src/current_time.cpp"
+#include "src/link.cpp"
+#include "src/modal.cpp"
 
 int main() {
   initscr();
