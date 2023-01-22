@@ -1,7 +1,7 @@
-#include "./format_datetime.cpp"
-#include "./json.hpp"
 #include <ncurses.h>
 #include <string>
+#include "./json.hpp"
+#include "./Time.cpp"
 
 using json = nlohmann::json;
 
@@ -45,8 +45,8 @@ class DisplayNews {
                addstr(" ~ ");
                addstr(std::to_string(newsJson["articles"].size()).c_str());
 
-      addstr(" ~ ");
-      addstr(std::to_string(max).c_str());
+               addstr(" ~ ");
+               addstr(std::to_string(max).c_str());
 
       addstr(" ~ ");
       addstr(std::to_string(current_element).c_str());
@@ -56,7 +56,7 @@ class DisplayNews {
 
       addstr(" t: ");
       addstr(std::to_string(current_element_top_visible).c_str());
-      */
+    */
 
       /*if int number only has one decimal*/
       /*add a space to even the cols*/

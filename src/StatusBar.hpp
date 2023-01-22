@@ -110,4 +110,5 @@ public:
         mvwaddstr(_parent,output_row,x, teste.c_str());
         attroff(_attributes);
     }
+    
 };
