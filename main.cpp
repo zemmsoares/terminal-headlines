@@ -98,7 +98,7 @@ int main() {
             statusbar.setAttributes(COLOR_PAIR(3));
             statusbar.drawKey(" o ", 11);
             statusbar.setAttributes(COLOR_PAIR(4));
-            statusbar.drawKey(" open ", 14);
+            statusbar.drawKey(" open in browser ", 14);
 
             refresh();
 
@@ -176,7 +176,7 @@ int main() {
     statusbar.setAttributes(COLOR_PAIR(3));
     statusbar.drawKey(" o ", 11);
     statusbar.setAttributes(COLOR_PAIR(4));
-    statusbar.drawKey(" open ", 14);
+    statusbar.drawKey(" open in browser ", 14);
 
     refresh();
   

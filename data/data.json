@@ -2,68 +2,198 @@
     "articles": [
         {
             "author": "Fox News",
+            "content": "At least nine people are dead and multiple others are injured after a mass shooting in Monterey Park, California late Saturday evening, Sgt. Bob Boese of the Los Angeles County Sheriffs Department co… [+2443 chars]",
+            "description": "A mass shooting has been reported in Monterey Park, California, which is located inside Los Angeles County, where people were celebrating the Lunar New Year festival.",
+            "publishedAt": "2023-01-22T11:07:24.1395832Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "California mass shooting leaves 9 dead, others injured at Lunar New Year festival",
+            "url": "https://www.foxnews.com/us/california-mass-shooting-leaves-9-dead-others-injured-lunar-new-year-festival",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/MONTEREY-PARK.jpg"
+        },
+        {
+            "author": "ANDREW DALTON",
+            "content": "MONTEREY PARK, Calif. (AP) — Nine people were killed in a mass shooting late Saturday in a city east of Los Angeles following a Lunar New Year celebration that attracted thousands, police said.Sgt. B… [+1013 chars]",
+            "description": "MONTEREY PARK, Calif. (AP) — Nine people were killed in a mass shooting late Saturday in a city east of Los Angeles following a Lunar New Year celebration that attracted thousands, police said.Sgt.",
+            "publishedAt": "2023-01-22T09:54:45Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "9 killed in shooting near LA after Lunar New Year festival",
+            "url": "https://apnews.com/24c38e3f3ddfbe2c31a9eabe8635dab2",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/746c948d9905409ba089dd906a85f35c/3000.jpeg"
+        },
+        {
+            "author": "Fox News",
+            "content": "All eyes are on White House press secretary Karine Jean-Pierre after additional classified documents were found at President Biden's Delaware home more than a week after she said a search of the resi… [+5692 chars]",
+            "description": "The White House previously emphasized a search of President Joe Biden's home was 'complete' but additional classified documents were found by the FBI on Friday.",
+            "publishedAt": "2023-01-22T08:52:15.8428198Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "More classified documents found at Biden's home week after White House said search was 'complete'",
+            "url": "https://www.foxnews.com/politics/more-classified-documents-found-biden-home-after-white-house-search-complete",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/White-House-Press-Secretary-Karine-Jean-Pierre.jpg"
+        },
+        {
+            "author": "Fox News",
             "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "'The Big Saturday' co-host Andy McCarthy says he doesn't think the criminal justice system is meant for tragic accidents in the wake of Alec Baldwin facing charges in 'Rust' movie set shooting.",
-            "publishedAt": "2023-01-22T01:37:22.065691Z",
+            "description": "Gov. Ron DeSantis, R-Fla., joins 'Unfiltered with Dan Bongino' to break down his efforts toward permanent protections against COVID mandates in Florida.",
+            "publishedAt": "2023-01-22T08:22:23.4435507Z",
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "title": "'Rust' shooting case isn't appropriate as a criminal case: Andy McCarthy | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319062275112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/890e5226-d37c-4d38-b570-27295cc65a7f/045cc5be-1f47-46b4-bece-cd1365c4f10e/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+            "title": "Ron DeSantis announces plans for protections against COVID mandates | Fox News Video",
+            "url": "https://www.foxnews.com/video/6319068378112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2962268b-72de-4eb2-b854-8041ccef3da9/3427393c-231a-4b0e-b0bf-2eb026136bc0/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         },
         {
             "author": "Fox News",
-            "content": "Social media reactions ripped Hilaria Baldwin for continuing to use an \"offensive\" Spanish accent after she spoke with paparazzi this week.\r\nTwitter users immediately seized on fresh video to once mo… [+3871 chars]",
-            "description": "Hilaria Baldwin apologized for \"misconceptions\" following revelations – including that she was born and raised in Boston – that called her heritage into question.",
-            "publishedAt": "2023-01-22T01:37:20.2234028Z",
+            "content": "Police in Maryland announced they arrested an illegal immigrant teen and suspected MS-13 gang member for the killing of an autistic 20-year-old woman over the summer. \r\n\"Its been for me, many sleeple… [+2959 chars]",
+            "description": "Aberdeen, Maryland, police announced they arrested a 17-year-old MS-13 gang member for the July fatal strangling of a 20-year-old autistic woman named Kayla Hamilton.",
+            "publishedAt": "2023-01-22T08:22:21.0921769Z",
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "title": "Hilaria Baldwin ripped for 'beyond offensive' accent while talking to paparazzi",
-            "url": "https://www.foxnews.com/entertainment/hilaria-baldwin-ripped-offensive-accent-talking-paparazzi",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Hilaria-Alec-Baldwin-Rust01.jpg"
+            "title": "MS-13 gang member arrested for murder of 20-year-old Maryland woman with autism",
+            "url": "https://www.foxnews.com/us/ms-13-gang-member-arrested-murder-20-year-old-maryland-woman-autism",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/policehandout.png"
         },
         {
-            "author": "Fox News",
-            "content": "The NFL fined Joey Bosa of the Los Angeles Chargers $55,456 for unsportsmanlike conduct and his public criticism of the referees after last week's 31-30 loss to the Jacksonville Jaguars.\r\nThe Los Ang… [+2490 chars]",
-            "description": "Joey Bosa of the LA Charges ripped the refs after the Chargers' 31-30 loss to the Jacksonville Jaguars. Los Angeles led the game 27-0 in the first half.",
-            "publishedAt": "2023-01-22T01:37:18.9893354Z",
+            "author": "SAMYA KULLAB and HANNA ARHIROVA",
+            "content": "BROVARY, Ukraine (AP) — A small broom and dustpan in hand, Olga Prenzilevich cleans up the debris along the road in a sleepy Kyiv suburb next to a cordoned-off mound of charred vehicles and misshapen… [+4942 chars]",
+            "description": "BROVARY, Ukraine (AP) — A small broom and dustpan in hand, Olga Prenzilevich cleans up the debris along the road in a sleepy Kyiv suburb next to a cordoned-off mound of charred vehicles and misshapen wreckage.",
+            "publishedAt": "2023-01-22T07:46:33Z",
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "title": "Chargers' Joey Bosa fined $55K for blasting refs following brutal loss",
-            "url": "https://www.foxnews.com/sports/chargers-joey-bosa-fined-55456-blasting-refs-brutal-loss",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/2023-01-16T053405Z_615374547_MT1USATODAY19799383_RTRMADP_3_NFL-AFC-WILD-CARD-ROUND-LOS-ANGELES-CHARGERS-AT-JACKSONVILLE-JAGUARS.jpg"
+            "title": "Ukraine's tragic week shows there's no safe place in war",
+            "url": "https://apnews.com/8dec67a1a9c85c383a3e33c040ad851d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/501c9de61dbf4586a5f23bac2f22c8b1/3000.jpeg"
         },
         {
             "author": "Fox News",
-            "content": "After the Department of Justice seized more classified documents from President Biden's home in Wilmington, Delaware, Republicans in Congress are sounding off, with some accusing the White House of l… [+1813 chars]",
-            "description": "Republicans are reacting after the DOJ found more classified documents in President Biden's Wilmington, Delaware home on Friday during a search.",
-            "publishedAt": "2023-01-22T01:37:16.7555166Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Biden classified documents: Republicans react to DOJ seizing more secret materials from Wilmington home",
-            "url": "https://www.foxnews.com/politics/biden-classified-documents-republicans-react-doj-seizing-more-secret-materials-wilmington-home",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Joe-Biden.gif"
-        },
-        {
-            "author": "Fox News",
-            "content": "Rioters in Atlanta set off fireworks and threw rocks at the Atlanta Police Foundation Saturday evening, according FOX 5 Atlanta.\r\nThe incident comes after an activist, Manuel Esteban Paez Teran, 26, … [+3212 chars]",
+            "content": "Atlanta police arrested at least six people after a peaceful protest Saturday erupted into a night of chaos and violence that included protesters smashing windows and setting a police vehicle on fire… [+4583 chars]",
             "description": "Rioters aimed fireworks and rocks at the Atlanta Police Foundation building on Saturday evening, according to video of the scene.",
-            "publishedAt": "2023-01-22T01:07:22.3485713Z",
+            "publishedAt": "2023-01-22T07:07:18.9525014Z",
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "title": "Atlanta riots erupt downtown amid 'Cop City' backlash",
-            "url": "https://www.foxnews.com/us/atlanta-riots-erupt-downtown-cop-city-backlash",
+            "title": "Atlanta police arrest 6 in night of chaos after violent protesters lit cop car ablaze, smashed windows",
+            "url": "https://www.foxnews.com/us/atlanta-police-arrest-night-chaos-violent-protesters-cop-car-smashed-windows",
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/IMG_2188.jpg"
+        },
+        {
+            "author": "FIRDIA LISNAWATI",
+            "content": "DENPASAR, Indonesia (AP) — A direct flight from China landed in Indonesia’s resort island of Bali for the first time in nearly three years on Sunday after the route was suspended due to the pandemic.… [+1922 chars]",
+            "description": "DENPASAR, Indonesia (AP) — A direct flight from China landed in Indonesia’s resort island of Bali for the first time in nearly three years on Sunday after the route was suspended due to the pandemic.",
+            "publishedAt": "2023-01-22T05:39:17Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Bali welcomes back 1st flight from China as COVID rules ease",
+            "url": "https://apnews.com/330d5232cb1b360085828713b6c6f9a7",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e553a29e9b7c4ef9b3c2de6e7c24ef34/3000.jpeg"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Former acting ICE chief Tom Homan joins 'Lawrence Jones Cross Country' to discuss cartel violence at the southern border and its impact on the United States.",
+            "publishedAt": "2023-01-22T05:07:19.7019019Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Cartels in Mexico are more violent than ever: Tom Homan | Fox News Video",
+            "url": "https://www.foxnews.com/video/6319070006112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136a3b3d-6f53-46d5-a61d-9d2d47496fdf/f6c99bea-1dfc-4bb0-99ff-e0434b5fc614/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Mountain Area Pregnancy Services executive director Kristi Brown joins 'Lawrence Jones Cross Country' to discuss the FBI offering a $25,000 reward for information on pro-life center attacks.",
+            "publishedAt": "2023-01-22T04:52:17.9203454Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Kristi Brown tells Lawrence Jones FBI reward makes her 'hopeful' | Fox News Video",
+            "url": "https://www.foxnews.com/video/6319069701112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe070a7b-f6e1-4b71-8ea8-fbcb12e899a0/0cd5cf60-c876-42bc-b3e8-7ab71d577c91/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "EMILY WANG FUJIYAMA and KANIS LEUNG",
+            "content": "BEIJING (AP) — People across China rang in the Lunar New Year on Sunday with large family gatherings and crowds visiting temples after the government lifted its strict “zero-COVID” policy, marking th… [+4774 chars]",
+            "description": "BEIJING (AP) — People across China rang in the Lunar New Year on Sunday with large family gatherings and crowds visiting temples after the government lifted its strict “zero-COVID” policy, marking the biggest festive celebration since the pandemic began three…",
+            "publishedAt": "2023-01-22T04:27:59Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "China rings in Year of Rabbit with most COVID rules lifted",
+            "url": "https://apnews.com/bff239df38b1206aa2d8c63043a47ecd",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2d8051460c3649bb9310605f4b8f0567/3000.jpeg"
+        },
+        {
+            "author": "DAN GELSTON",
+            "content": "PHILADELPHIA (AP) — All it took was one throw. Jalen Hurts let it fly on his first pass attempt of the game and suddenly the unease that crept into that often worrisome Philly sports psyche — yeah, b… [+5394 chars]",
+            "description": "PHILADELPHIA (AP) — All it took was one throw. Jalen Hurts let it fly on his first pass attempt of the game and suddenly the unease that crept into that often worrisome Philly sports psyche — yeah, but how is his banged-up right shoulder, really?",
+            "publishedAt": "2023-01-22T04:10:18Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Hurts, Eagles pound Giants early, coast to NFC title game",
+            "url": "https://apnews.com/f452799f173313a06c6437d89429e864",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c012e795c3164ce484b618a3796b7ed4/3000.jpeg"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Fox News anchor Jon Scott has the latest details on the Department of Justice's search of President Biden's Delaware home and reports White House chief of staff Ron Klain is preparing to step down.",
+            "publishedAt": "2023-01-22T03:37:19.1863497Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Search of Biden's Delaware home turns up more classified documents | Fox News Video",
+            "url": "https://www.foxnews.com/video/6319063855112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae03da95-729b-4b73-a656-00539df5ede6/d7933922-ccea-49e4-9863-5bfd07dad713/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Rep. Anna Paulina Luna, R-Fla., joins 'Fox Report' to discuss the migrant surge breaking another record as migrant encounters top 250,000 in December.",
+            "publishedAt": "2023-01-22T03:37:18.358431Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Biden, Harris border crisis is 'by design': Anna Paulina Luna | Fox News Video",
+            "url": "https://www.foxnews.com/video/6319064793112",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c9012f2-e678-4930-8733-e6f61207304c/3c3dcd40-5908-4355-bff8-ffe48e66aa39/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "R.J. RICO",
+            "content": "ATLANTA (AP) — A protest turned violent in downtown Atlanta on Saturday night in the wake of the death of an environmental activist who was killed by authorities this week after officials said the 26… [+3568 chars]",
+            "description": "ATLANTA (AP) — A protest turned violent in downtown Atlanta on Saturday night in the wake of the death of an environmental activist who was killed by authorities this week after officials said the 26-year-old shot a state trooper.",
+            "publishedAt": "2023-01-22T01:23:39Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Violent protest in downtown Atlanta over killing of activist",
+            "url": "https://apnews.com/4600ca3daf8ab8c18a09e990cedcf564",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8f87d5da76fc46c4af7e641124900046/1971.jpeg"
         },
         {
             "author": "Fox News",
@@ -79,58 +209,58 @@
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/Untitled-design-51.jpg"
         },
         {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Former U.S. International Trade Commission chief economist Peter Morici weighs in on the debt ceiling showdown as Treasury Secretary Janet Yellen takes action on 'Fox News Live.'",
-            "publishedAt": "2023-01-21T23:22:22.0980756Z",
+            "author": "ZEKE MILLER, MICHAEL BALSAMO and COLLEEN LONG",
+            "content": "WASHINGTON (AP) — The FBI searched President Joe Biden’s home in Wilmington, Delaware, on Friday and located additional documents with classified markings and also took possession of some of his hand… [+4991 chars]",
+            "description": "WASHINGTON (AP) — The FBI searched President Joe Biden’s home in Wilmington, Delaware, on Friday and located additional documents with classified markings and also took possession of some of his handwritten notes, the president’s lawyer said Saturday.",
+            "publishedAt": "2023-01-22T00:05:30Z",
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "title": "US reaches debt limit, triggers Treasury to take 'extraordinary measures'  | Fox News Video",
-            "url": "https://video.foxnews.com/v/6319059074112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/27046ab8-6dd0-4817-b1e2-b6d56e622c09/2b2fd509-cc15-4689-8064-4e6a240d94f5/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+            "title": "FBI searched Biden home, found items marked classified",
+            "url": "https://apnews.com/0827b59ee141b33af95023377713e075",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8206d6cc1a3542939e5793c12a71010e/3000.jpeg"
         },
         {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Member of Ukrainian Parliament Solomiia Bobrovska discusses potential operations in Crimea, and reacts to Joint Chief of Staff Chairman Gen. Mark Milley's comments on Ukraine's prospects in the new year.",
-            "publishedAt": "2023-01-21T20:37:19.4426488Z",
+            "author": "JOCELYN NOVECK",
+            "content": "NEW YORK (AP) — The Golden Globes carpet typically glitters with crystal-studded gowns in pastel hues, but it looked different in January 2018: The ballgowns were black, and the night's key accessory… [+6424 chars]",
+            "description": "NEW YORK (AP) — The Golden Globes carpet typically glitters with crystal-studded gowns in pastel hues, but it looked different in January 2018: The ballgowns were black, and the night's key accessory was a pin that read “Time's Up.” Onstage, Oprah Winfrey bro…",
+            "publishedAt": "2023-01-21T22:41:36Z",
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "title": "Ukraine's 'solution will be found on the battlefield': Solomiia Bobrovska | Fox News Video",
-            "url": "https://video.foxnews.com/v/6319050135112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8473c0c3-0223-4374-ad3d-2f6abad811a7/14947440-0712-49cb-b032-02457d6707d9/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+            "title": "Time's Up to halt operations, shift resources to legal fund",
+            "url": "https://apnews.com/1ac800e48a96357d7fb29c18848c50d2",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b2b306e4acd24599a3fa5ce5014c81ab/2321.jpeg"
         },
         {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Former Deputy Assistant Attorney General Tom Dupree discusses the investigations into, and questions raised on Joe Biden's storage of classified documents.",
-            "publishedAt": "2023-01-21T19:22:24.0679392Z",
+            "author": "SEUNG MIN KIM, MICHAEL BALSAMO and ZEKE MILLER",
+            "content": "REHOBOTH BEACH, Del. (AP) — White House chief of staff Ron Klain, who has spent more than two years as President Joe Biden's top aide, is preparing to leave his job in the coming weeks, according to … [+5771 chars]",
+            "description": "REHOBOTH BEACH, Del. (AP) — White House chief of staff Ron Klain, who has spent more than two years as President Joe Biden's top aide, is preparing to leave his job in the coming weeks, according to a person familiar with Klain's plans.",
+            "publishedAt": "2023-01-21T20:21:09Z",
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "title": "Biden doc investigations 'puts the administration in a box': Tom Dupree | Fox News Video",
-            "url": "https://video.foxnews.com/v/6319046693112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7ec8209d-c785-4916-bbf1-c8d187efd221/eece0abd-4a9b-41fe-937e-71b5a1732d2b/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+            "title": "Top Biden aide Ron Klain expected to soon leave White House",
+            "url": "https://apnews.com/859543dcbbcbe3e2ef987e88f7b4ff34",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e41c86cfad264db78fa0517bdb6e4602/2542.jpeg"
         },
         {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Rep. Debbie Dingell, D-Mich., joins 'Fox News Live' to discuss to President Biden's handling of classified documents, the investigation by the DOJ and the debt ceiling.",
-            "publishedAt": "2023-01-21T19:22:21.4262041Z",
+            "author": "LINDSEY BAHR",
+            "content": "PARK CITY, Utah (AP) — A new documentary looks into the sexual misconduct allegations against Supreme Court Justice Brett Kavanaugh and raises questions about the depth of the FBI investigation in 20… [+4184 chars]",
+            "description": "PARK CITY, Utah (AP) — A new documentary looks into the sexual misconduct allegations against Supreme Court Justice Brett Kavanaugh and raises questions about the depth of the FBI investigation in 2018.",
+            "publishedAt": "2023-01-21T19:23:25Z",
             "source": {
-                "id": "fox-news",
-                "name": "Fox News"
+                "id": "associated-press",
+                "name": "Associated Press"
             },
-            "title": "Rep. Debbie Dingell 'wants the facts' on Biden doc handling | Fox News Video",
-            "url": "https://video.foxnews.com/v/6319045889112/",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d030d646-9767-402e-9b6e-0b303f92bf02/b9a1de3c-43b7-436d-8fc3-d3f064dcd6dd/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+            "title": "Sundance doc looks into Brett Kavanaugh investigation",
+            "url": "https://apnews.com/312b5e1d318094f005aae4bf41f9d38a",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/80eb9358982c4952aa6f2ae7d5453718/3000.jpeg"
         }
     ],
     "status": "ok",
-    "totalResults": 10
+    "totalResults": 20
 }
