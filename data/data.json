@@ -2,42 +2,133 @@
     "articles": [
         {
             "author": "Fox News",
-            "content": "At least nine people are dead and multiple others are injured after a mass shooting in Monterey Park, California late Saturday evening, Sgt. Bob Boese of the Los Angeles County Sheriffs Department co… [+2443 chars]",
-            "description": "A mass shooting has been reported in Monterey Park, California, which is located inside Los Angeles County, where people were celebrating the Lunar New Year festival.",
-            "publishedAt": "2023-01-22T11:07:24.1395832Z",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "'Fox & Friends Weekend' host Rachel Campos-Duffy gets an office makeover from RocketoMarsOrganizing.org.",
+            "publishedAt": "2023-01-22T13:22:15.5094859Z",
             "source": {
                 "id": "fox-news",
                 "name": "Fox News"
             },
-            "title": "California mass shooting leaves 9 dead, others injured at Lunar New Year festival",
-            "url": "https://www.foxnews.com/us/california-mass-shooting-leaves-9-dead-others-injured-lunar-new-year-festival",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/MONTEREY-PARK.jpg"
+            "title": "Rachel Campos-Duffy gets a special office makeover | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319084304112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2ecb6801-3d11-41d6-87c3-63799156ced3/144036fd-89a0-4f8c-8c48-fb2d604033e3/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "MAYSOON KHAN",
+            "content": "ALBANY, N.Y. (AP) — Democratic lawmakers in a handful of states are trying to send a message two years after the violent attack on the U.S. Capitol: Those who engage in an attempted overthrow of the … [+7180 chars]",
+            "description": "ALBANY, N.Y. (AP) — Democratic lawmakers in a handful of states are trying to send a message two years after the violent attack on the U.S. Capitol: Those who engage in an attempted overthrow of the government shouldn’t be allowed to run it.",
+            "publishedAt": "2023-01-22T13:04:57Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Lawmakers seek to bar insurrectionists from holding office",
+            "url": "https://apnews.com/35feb56487697d2e228860ae5f646549",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8a487b317c1a4d64a238100fd6b635b5/3000.jpeg"
+        },
+        {
+            "author": "LISA MASCARO",
+            "content": "WASHINGTON (AP) — The way Republican Rep. Tom Emmer tells it, the lousiest job he ever had — he has a saltier way of describing it — was running the House Republican campaign committee.But after havi… [+6136 chars]",
+            "description": "WASHINGTON (AP) — The way Republican Rep. Tom Emmer tells it, the lousiest job he ever had — he has a saltier way of describing it — was running the House Republican campaign committee.",
+            "publishedAt": "2023-01-22T12:49:15Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Hockey brawls to debt limit: Emmer wrangles House GOP votes",
+            "url": "https://apnews.com/744b602f30285f3398da09d1489f37dd",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/caf260af792e47e2a62cc13737799688/3000.jpeg"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Worldstat President Jim Hanson weighs in on Biden's involvement in the classified documents debacle and rips him over the relentless crisis at the U.S. southern border.",
+            "publishedAt": "2023-01-22T12:37:21.6075547Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Jim Hanson slams Biden for docs debacle: 'No way' he should have control of US' 'most vital secrets' | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319082700112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c2dfe07f-5242-4a69-828e-5be94e91150d/81443ace-f961-4ee0-a6f8-761dc6fb5d42/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
+            "description": "Officials in Monterey Park, California, give an update after a deadly mass shooting leaves at least 10 victims dead and another 10 injured.",
+            "publishedAt": "2023-01-22T12:37:19.6080521Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "California mass shooting leaves at least 10 victims dead  | Fox News Video",
+            "url": "https://video.foxnews.com/v/6319081815112/",
+            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/768dafb5-ff1e-4255-94a6-1f725d096622/7b75ce78-5ffc-400e-a6ab-b43c614e58a8/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
+        },
+        {
+            "author": "Fox News",
+            "content": "Fun fact: The first Compaq Portable computer shipped in 1983 and cost more than $8,400 in todays dollars. Wow, times have changed.\r\nStill, your computer is a significant investment, and you want it t… [+6900 chars]",
+            "description": "To stop your smart TV from spying on you, disable ACR technology, block built-in cameras and turn off built-in microphones.",
+            "publishedAt": "2023-01-22T12:22:25.8886237Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "Your TV is spying on you, but you can stop it",
+            "url": "https://www.foxnews.com/tech/tv-is-spying-you-you-can-stop",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/GettyImages-1242011566.jpg"
+        },
+        {
+            "author": "Fox News",
+            "content": "A suspect remains at large after at least 10 people were killed and multiple others were injured in a mass shooting in Monterey Park, California, late Saturday evening in an area where people were ga… [+3498 chars]",
+            "description": "A mass shooting in Monterey Park, California, which is located inside Los Angeles County, where people were celebrating the Lunar New Year festival left at least 10 dead.",
+            "publishedAt": "2023-01-22T12:22:20.060835Z",
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "title": "California mass shooting leaves at least 10 dead, others injured at Lunar New Year festival; suspect at large",
+            "url": "https://www.foxnews.com/us/california-mass-shooting-leaves-10-dead-others-injured-lunar-new-year-festival",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/AP23022347757319.jpg"
+        },
+        {
+            "author": "CHRIS MEGERIAN and SEUNG MIN KIM",
+            "content": "WASHINGTON (AP) — Before Democrat Tina Smith ran for the Senate, she volunteered at a Planned Parenthood clinic in her home state of Minnesota where protesters would confront women as they entered. T… [+6588 chars]",
+            "description": "WASHINGTON (AP) — Before Democrat Tina Smith ran for the Senate, she volunteered at a Planned Parenthood clinic in her home state of Minnesota where protesters would confront women as they entered.",
+            "publishedAt": "2023-01-22T12:08:39Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Abortion at crossroads after midterms with focus on states",
+            "url": "https://apnews.com/3050ca96e5d1fe914c1e2c1ad18a5b8f",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/4aa535cfbafe4cb0810ba8a7663c78a6/3000.jpeg"
+        },
+        {
+            "author": "TIA GOLDENBERG",
+            "content": "TEL AVIV, Israel (AP) — Israeli Prime Minister Benjamin Netanyahu fired a key Cabinet ally on Sunday, heeding a Supreme Court ruling commanding him to do so and deepening a rift over the power of the… [+2953 chars]",
+            "description": "TEL AVIV, Israel (AP) — Israeli Prime Minister Benjamin Netanyahu fired a key Cabinet ally on Sunday, heeding a Supreme Court ruling commanding him to do so and deepening a rift over the power of the courts.",
+            "publishedAt": "2023-01-22T11:06:00Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "Israel's Netanyahu fires Cabinet ally, heeding court ruling",
+            "url": "https://apnews.com/a05a1e2fa47d924317295cd83456801d",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/cb2ed67727994291a1165bd36008ef24/3000.jpeg"
         },
         {
             "author": "ANDREW DALTON",
-            "content": "MONTEREY PARK, Calif. (AP) — Nine people were killed in a mass shooting late Saturday in a city east of Los Angeles following a Lunar New Year celebration that attracted thousands, police said.Sgt. B… [+1013 chars]",
-            "description": "MONTEREY PARK, Calif. (AP) — Nine people were killed in a mass shooting late Saturday in a city east of Los Angeles following a Lunar New Year celebration that attracted thousands, police said.Sgt.",
+            "content": "MONTEREY PARK, Calif. (AP) — A gunman killed 10 people and wounded 10 others at a Los Angeles-area ballroom dance club following a Lunar New Year celebration, setting off a manhunt for the suspect in… [+2893 chars]",
+            "description": "MONTEREY PARK, Calif. (AP) — A gunman killed 10 people and wounded 10 others at a Los Angeles-area ballroom dance club following a Lunar New Year celebration, setting off a manhunt for the suspect in the fifth mass killing in the U.S.",
             "publishedAt": "2023-01-22T09:54:45Z",
             "source": {
                 "id": "associated-press",
                 "name": "Associated Press"
             },
-            "title": "9 killed in shooting near LA after Lunar New Year festival",
+            "title": "LA mass shooting suspect kills 10 near Lunar New Year fest",
             "url": "https://apnews.com/24c38e3f3ddfbe2c31a9eabe8635dab2",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/746c948d9905409ba089dd906a85f35c/3000.jpeg"
-        },
-        {
-            "author": "Fox News",
-            "content": "All eyes are on White House press secretary Karine Jean-Pierre after additional classified documents were found at President Biden's Delaware home more than a week after she said a search of the resi… [+5692 chars]",
-            "description": "The White House previously emphasized a search of President Joe Biden's home was 'complete' but additional classified documents were found by the FBI on Friday.",
-            "publishedAt": "2023-01-22T08:52:15.8428198Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "More classified documents found at Biden's home week after White House said search was 'complete'",
-            "url": "https://www.foxnews.com/politics/more-classified-documents-found-biden-home-after-white-house-search-complete",
-            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/White-House-Press-Secretary-Karine-Jean-Pierre.jpg"
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/2f03b0e2824d4062ae8ba6e90d4708bd/3000.jpeg"
         },
         {
             "author": "Fox News",
@@ -79,6 +170,19 @@
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/501c9de61dbf4586a5f23bac2f22c8b1/3000.jpeg"
         },
         {
+            "author": "SYLVIE CORBET and EMILY SCHULTHEIS",
+            "content": "PARIS (AP) — France and Germany are seeking to overcome differences laid bare by Russia's war in Ukraine while celebrating their decades-long friendship with a day of ceremonies and talks Sunday on E… [+3373 chars]",
+            "description": "PARIS (AP) — France and Germany are seeking to overcome differences laid bare by Russia's war in Ukraine while celebrating their decades-long friendship with a day of ceremonies and talks Sunday on Europe’s security, energy and other challenges.",
+            "publishedAt": "2023-01-22T07:26:38Z",
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "title": "France, Germany renew alliance strained amid war in Ukraine",
+            "url": "https://apnews.com/a9c9475ec75e58773cac38d2ccb7b4bf",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/28044ce530be492cb04fc19184b07f5b/3000.jpeg"
+        },
+        {
             "author": "Fox News",
             "content": "Atlanta police arrested at least six people after a peaceful protest Saturday erupted into a night of chaos and violence that included protesters smashing windows and setting a police vehicle on fire… [+4583 chars]",
             "description": "Rioters aimed fireworks and rocks at the Atlanta Police Foundation building on Saturday evening, according to video of the scene.",
@@ -90,19 +194,6 @@
             "title": "Atlanta police arrest 6 in night of chaos after violent protesters lit cop car ablaze, smashed windows",
             "url": "https://www.foxnews.com/us/atlanta-police-arrest-night-chaos-violent-protesters-cop-car-smashed-windows",
             "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/IMG_2188.jpg"
-        },
-        {
-            "author": "FIRDIA LISNAWATI",
-            "content": "DENPASAR, Indonesia (AP) — A direct flight from China landed in Indonesia’s resort island of Bali for the first time in nearly three years on Sunday after the route was suspended due to the pandemic.… [+1922 chars]",
-            "description": "DENPASAR, Indonesia (AP) — A direct flight from China landed in Indonesia’s resort island of Bali for the first time in nearly three years on Sunday after the route was suspended due to the pandemic.",
-            "publishedAt": "2023-01-22T05:39:17Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Bali welcomes back 1st flight from China as COVID rules ease",
-            "url": "https://apnews.com/330d5232cb1b360085828713b6c6f9a7",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/e553a29e9b7c4ef9b3c2de6e7c24ef34/3000.jpeg"
         },
         {
             "author": "Fox News",
@@ -118,19 +209,6 @@
             "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/136a3b3d-6f53-46d5-a61d-9d2d47496fdf/f6c99bea-1dfc-4bb0-99ff-e0434b5fc614/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
         },
         {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Mountain Area Pregnancy Services executive director Kristi Brown joins 'Lawrence Jones Cross Country' to discuss the FBI offering a $25,000 reward for information on pro-life center attacks.",
-            "publishedAt": "2023-01-22T04:52:17.9203454Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Kristi Brown tells Lawrence Jones FBI reward makes her 'hopeful' | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319069701112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe070a7b-f6e1-4b71-8ea8-fbcb12e899a0/0cd5cf60-c876-42bc-b3e8-7ab71d577c91/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
             "author": "EMILY WANG FUJIYAMA and KANIS LEUNG",
             "content": "BEIJING (AP) — People across China rang in the Lunar New Year on Sunday with large family gatherings and crowds visiting temples after the government lifted its strict “zero-COVID” policy, marking th… [+4774 chars]",
             "description": "BEIJING (AP) — People across China rang in the Lunar New Year on Sunday with large family gatherings and crowds visiting temples after the government lifted its strict “zero-COVID” policy, marking the biggest festive celebration since the pandemic began three…",
@@ -142,58 +220,6 @@
             "title": "China rings in Year of Rabbit with most COVID rules lifted",
             "url": "https://apnews.com/bff239df38b1206aa2d8c63043a47ecd",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/2d8051460c3649bb9310605f4b8f0567/3000.jpeg"
-        },
-        {
-            "author": "DAN GELSTON",
-            "content": "PHILADELPHIA (AP) — All it took was one throw. Jalen Hurts let it fly on his first pass attempt of the game and suddenly the unease that crept into that often worrisome Philly sports psyche — yeah, b… [+5394 chars]",
-            "description": "PHILADELPHIA (AP) — All it took was one throw. Jalen Hurts let it fly on his first pass attempt of the game and suddenly the unease that crept into that often worrisome Philly sports psyche — yeah, but how is his banged-up right shoulder, really?",
-            "publishedAt": "2023-01-22T04:10:18Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Hurts, Eagles pound Giants early, coast to NFC title game",
-            "url": "https://apnews.com/f452799f173313a06c6437d89429e864",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c012e795c3164ce484b618a3796b7ed4/3000.jpeg"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Fox News anchor Jon Scott has the latest details on the Department of Justice's search of President Biden's Delaware home and reports White House chief of staff Ron Klain is preparing to step down.",
-            "publishedAt": "2023-01-22T03:37:19.1863497Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Search of Biden's Delaware home turns up more classified documents | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319063855112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae03da95-729b-4b73-a656-00539df5ede6/d7933922-ccea-49e4-9863-5bfd07dad713/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "Fox News",
-            "content": "©2023 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes.",
-            "description": "Rep. Anna Paulina Luna, R-Fla., joins 'Fox Report' to discuss the migrant surge breaking another record as migrant encounters top 250,000 in December.",
-            "publishedAt": "2023-01-22T03:37:18.358431Z",
-            "source": {
-                "id": "fox-news",
-                "name": "Fox News"
-            },
-            "title": "Biden, Harris border crisis is 'by design': Anna Paulina Luna | Fox News Video",
-            "url": "https://www.foxnews.com/video/6319064793112",
-            "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6c9012f2-e678-4930-8733-e6f61207304c/3c3dcd40-5908-4355-bff8-ffe48e66aa39/1280x720/match/1024/512/image.jpg?ve=1&tl=1"
-        },
-        {
-            "author": "R.J. RICO",
-            "content": "ATLANTA (AP) — A protest turned violent in downtown Atlanta on Saturday night in the wake of the death of an environmental activist who was killed by authorities this week after officials said the 26… [+3568 chars]",
-            "description": "ATLANTA (AP) — A protest turned violent in downtown Atlanta on Saturday night in the wake of the death of an environmental activist who was killed by authorities this week after officials said the 26-year-old shot a state trooper.",
-            "publishedAt": "2023-01-22T01:23:39Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Violent protest in downtown Atlanta over killing of activist",
-            "url": "https://apnews.com/4600ca3daf8ab8c18a09e990cedcf564",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/8f87d5da76fc46c4af7e641124900046/1971.jpeg"
         },
         {
             "author": "Fox News",
@@ -222,19 +248,6 @@
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/8206d6cc1a3542939e5793c12a71010e/3000.jpeg"
         },
         {
-            "author": "JOCELYN NOVECK",
-            "content": "NEW YORK (AP) — The Golden Globes carpet typically glitters with crystal-studded gowns in pastel hues, but it looked different in January 2018: The ballgowns were black, and the night's key accessory… [+6424 chars]",
-            "description": "NEW YORK (AP) — The Golden Globes carpet typically glitters with crystal-studded gowns in pastel hues, but it looked different in January 2018: The ballgowns were black, and the night's key accessory was a pin that read “Time's Up.” Onstage, Oprah Winfrey bro…",
-            "publishedAt": "2023-01-21T22:41:36Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Time's Up to halt operations, shift resources to legal fund",
-            "url": "https://apnews.com/1ac800e48a96357d7fb29c18848c50d2",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/b2b306e4acd24599a3fa5ce5014c81ab/2321.jpeg"
-        },
-        {
             "author": "SEUNG MIN KIM, MICHAEL BALSAMO and ZEKE MILLER",
             "content": "REHOBOTH BEACH, Del. (AP) — White House chief of staff Ron Klain, who has spent more than two years as President Joe Biden's top aide, is preparing to leave his job in the coming weeks, according to … [+5771 chars]",
             "description": "REHOBOTH BEACH, Del. (AP) — White House chief of staff Ron Klain, who has spent more than two years as President Joe Biden's top aide, is preparing to leave his job in the coming weeks, according to a person familiar with Klain's plans.",
@@ -246,19 +259,6 @@
             "title": "Top Biden aide Ron Klain expected to soon leave White House",
             "url": "https://apnews.com/859543dcbbcbe3e2ef987e88f7b4ff34",
             "urlToImage": "https://storage.googleapis.com/afs-prod/media/e41c86cfad264db78fa0517bdb6e4602/2542.jpeg"
-        },
-        {
-            "author": "LINDSEY BAHR",
-            "content": "PARK CITY, Utah (AP) — A new documentary looks into the sexual misconduct allegations against Supreme Court Justice Brett Kavanaugh and raises questions about the depth of the FBI investigation in 20… [+4184 chars]",
-            "description": "PARK CITY, Utah (AP) — A new documentary looks into the sexual misconduct allegations against Supreme Court Justice Brett Kavanaugh and raises questions about the depth of the FBI investigation in 2018.",
-            "publishedAt": "2023-01-21T19:23:25Z",
-            "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
-            },
-            "title": "Sundance doc looks into Brett Kavanaugh investigation",
-            "url": "https://apnews.com/312b5e1d318094f005aae4bf41f9d38a",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/80eb9358982c4952aa6f2ae7d5453718/3000.jpeg"
         }
     ],
     "status": "ok",
