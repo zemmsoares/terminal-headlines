@@ -103,7 +103,7 @@ int main() {
             refresh();
 
             /*Sleep before next update*/
-            std::this_thread::sleep_for(std::chrono::minutes(3));
+            std::this_thread::sleep_for(std::chrono::minutes(15));
             // std::cout << "5 MIN - JSON UPDATED\n";
             // std::cout << "-----------------------------------\n";
             }
