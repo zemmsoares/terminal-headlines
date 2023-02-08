@@ -41,23 +41,6 @@ class DisplayNews {
                 mvprintw(row++, 0, " ");
             addstr(std::to_string(i).c_str());
 
-            /* debug
-               addstr(" ~ ");
-               addstr(std::to_string(newsJson["articles"].size()).c_str());
-
-               addstr(" ~ ");
-               addstr(std::to_string(max).c_str());
-
-      addstr(" ~ ");
-      addstr(std::to_string(current_element).c_str());
-
-      addstr(" b: ");
-      addstr(std::to_string(current_element_bottom_visible).c_str());
-
-      addstr(" t: ");
-      addstr(std::to_string(current_element_top_visible).c_str());
-    */
-
       /*if int number only has one decimal*/
       /*add a space to even the cols*/
       if (i < 10) {

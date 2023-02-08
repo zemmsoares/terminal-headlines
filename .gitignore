@@ -1,4 +1,6 @@
 #Script file
 a.out
+terminal-headlines
 #Config with API key
-/data/config.json
+#/data/config.json
+/data/data.json

@@ -35,17 +35,13 @@ int main() {
     int x_max = getmaxx(stdscr);
     int y_max = getmaxy(stdscr);
 
-    //std::cout << "GET REQUEST INITIAL\n";
     Request request;
     request.getRequests();
-    //std::cout << "FINISH REQUEST INITIAL\n";
 
-    //std::cout << "UPDATE FILE WITH NEW VALUES - INITIAL\n";
     std::ifstream jsonFile("./data/data.json");
     json myJson;
     jsonFile >> myJson;
     jsonFile.close(); 
-    //std::cout << "FINISH UPDATE FILE WITH NEW VALUES - INITIAL\n";
 
     /*Create thread t1 to not interfere with main getch*/
     /*runs every x time to get new data from the API*/
@@ -58,18 +54,12 @@ int main() {
             while (true) {
             clear();
 
-            //std::cout << "-----------------------\n";
             /*update json with new data from API*/
-
-            //std::cout << "GET REQUEST THREAD\n";
             request.getRequests();
-            //std::cout << "FINISH GET REQUEST THREAD\n";
 
-            //std::cout << "UPDATE FILE WITH NEW VALUES THREAD\n";
             std::ifstream jsonFile("./data/data.json");
             jsonFile >> myJson;
             jsonFile.close();
-            //std::cout << "FINISH UPDATE FILE WITH NEW VALUES THREAD\n";
 
             /*remove the highlighted selection after refresh*/
             refreshed = true;
@@ -104,8 +94,6 @@ int main() {
 
             /*Sleep before next update*/
             std::this_thread::sleep_for(std::chrono::minutes(15));
-            // std::cout << "5 MIN - JSON UPDATED\n";
-            // std::cout << "-----------------------------------\n";
             }
     });
     t1.detach();

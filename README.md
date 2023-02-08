@@ -17,12 +17,12 @@ You can stay on top of the news headlines from your favorite sources with **term
 ##  Installation
 #### Create config
 
-Create **/data/config.json**, replace with your API key from [NewsAPI.org](https://newsapi.org/) and choose the [sources](https://newsapi.org/sources). 
+replace **/data/config.json** with your API key from [NewsAPI.org](https://newsapi.org/) and choose the [sources](https://newsapi.org/docs/endpoints/sources). 
 
 ```
 {
     "api_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-    "sources": "associated-press,fox-news"
+    "sources": "associated-press,reuters"
 }
 ```
 ###### Note: API is not open source, however as the project is under development and until a solution is found, newsAPI offers a development plan that can be used for development / testing purposes.
